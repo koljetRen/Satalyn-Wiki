@@ -67,6 +67,26 @@ The wiki uses the newest spelling as the page title and lists the others as alia
 ## Peoples and races
 
 - **Ice age people and the races:** were the ice age people one race or members of all five? Are dwarves/goliaths (an idea) a separate race? Where were their refuges on the map? — sources/claude-doc/world-creation-notes.md.
+- **Calendar:** what does the year count (350, 1045, 1067) start from, and how long ago did the ice age end? — sources/drive/runaways/runaways-character-info-personal.md, sources/claude-doc/world-creation-notes.md
+- **Xi Empire length:** the timeline gives 350–430 (80 years), but the Xi notes say the council pulled out "after a few decades". Also: how was an island "no one has discovered" the seat of an empire? — sources/drive/runaways/runaways-character-info-personal.md vs sources/drive/runaways/runaways-ideas.md
+- **1045 evil wizard:** the timeline says only "Evil wizard starts attacking Great City". Is it Dherlin? What and where is the Great City (Fillyolia's capital? Carthollow?) — sources/drive/runaways/runaways-character-info-personal.md
+- **Fall of Fillyolia:** when did it happen, and is it the same as the 1045 attacks? Is Carter's kingdom Fillyolia's successor? — sources/drive/runaways/runaways-ideas.md
+- **Desolation of the ground water:** when, where, and why it stopped the auroras; is "the evil wizard" Dherlin? — sources/drive/organized-runaways-notes.md
+- **The fort:** is the Book 2 "battle at the fort" at Keyesport Vale? The blurb says Carter's armies capture "the island". Is Keyesport Vale an island? — sources/drive/runaways/runaways-ideas.md, sources/drive/runaways/book-2-stomped-in-the-dust.md
+- **Sam's death:** the 2021 leadership notes list Sam as dead. Does he die leading the frontal charge at Misty Phlats? — sources/drive/runaways/resistance-leadership-personal.md
+- **Book 3 dates:** "1069/1070" — and where do the post-Book 3 events (Averill quest, Lucal, Scott's death, the baby) fall before the 1074 join? — sources/drive/runaways/runaways-character-info-personal.md, sources/drive/runaways/runaways-ideas.md
+- **Eric's escape:** Brian frees Eric and David (older Book 1 plot) vs Bardon and Rykor break out Eric and Aiko (2026 sheet). Timeline page shows both. — sources/drive/runaways/runaways-ideas.md vs sources/drive/organized-runaways-notes.md
+- **Name overlap:** Package 3 is also asked to write "the ice age people" (as a race); this package wrote history/the-ice-age-people.md. Package 7 should merge them. — WIKI-PLAN.md
+- **Timeline gaps (Package 8):** how long did the phases of creation and the golden age last in years? When did the resistance form, and when did King Carter begin reuniting the villages, relative to 1045? — sources/claude-doc/world-creation-notes.md, sources/drive/runaways/runaways-ideas.md
+- **Slave hunters meet the Runaways (Package 8):** the slave book starts in 1071 and Peter meets the Runaways group "after 2 or 3 years of slave hunting" (about 1073–1074). Is that meeting the 1074 joining of the series? — sources/drive/slave-hunters/slave-hunters-stuff.md, sources/drive/runaways/runaways-character-info-personal.md
+
+## Peoples and cultures
+
+- **Kurupal / Krerupal:** which spelling is final? Wiki uses Kurupal (2026), with Krerupal as an alias — sources/claude-doc/world-creation-notes.md vs sources/drive/runaways/runaways-character-info-personal.md.
+- **Aegryamis / Aegyramis:** which spelling is final? Wiki uses Aegryamis (2026 sheet) — sources/drive/organized-runaways-notes.md vs sources/drive/runaways/runaways-ideas.md, sources/drive/slave-hunters/the-slave-book.md.
+- **Culture page names:** culture pages are titled "Xi people", "Osisu people", etc. (files `content/peoples/cultures/xi-people.md` …) so they don't clash with the region pages of the same name in `places/`. Is that OK, or do you want demonyms (Aramoreans, Skargans, Osisuans)? — Package 3 decision.
+- **Number of human cultures:** the world-creation notes say humans have "four or five cultures" (naming Osisu and Bardon's city), but six cultures are described. Are all six human? Only Osisu and Aramore are explicitly human — sources/claude-doc/world-creation-notes.md, sources/drive/organized-runaways-notes.md.
+- **"Bardon's city":** which city is it? Bardon is Aramorean — sources/claude-doc/world-creation-notes.md.
 - **Races list:** the list of starting races ends with an empty "6." Is a sixth race planned? — sources/claude-doc/world-creation-notes.md.
 - **Merfolk:** "possible merfolk" are mentioned as an example only. Real race or not? (Package 7 removed the link to a Merfolk page, so none is pending.) — sources/claude-doc/world-creation-notes.md.
 - **Elves and stoneskins:** no appearance or homeland given for either — sources/claude-doc/world-creation-notes.md.
@@ -132,6 +152,8 @@ The wiki uses the newest spelling as the page title and lists the others as alia
 - **Peter Snyder's mother:** unnamed — sources/drive/slave-hunters/the-slave-book.md.
 - **The head helper:** no name. Did he have a hand in the royal family's deaths? The notes don't say — sources/drive/slave-hunters/the-slave-book.md.
 - **Jason:** who is the boy with the perfectly balanced knife in the handwritten slave-hunters pages, and how does he fit the slave book? Typing up IMG_8222–8225 would settle it — sources/README.md.
+- **Council of Worldly Wizards:** only known as the council Aerelm sits on. Who else is on it and what does it do? — (sources/drive/runaways/runaways-character-info-personal.md).
+- **Cultures of the main cast (Package 8):** the notes give a culture only for Eric, David, Bardon, Akio, Rannulfer, Ulrich, the Torturer, the Kurupal and the Xi. Which cultures are Jane, Scott and Joseph Barker, Brian, King Carter, King Augo and the other resistance members? — content/stories/who-is-who.md
 
 ## Stories
 
