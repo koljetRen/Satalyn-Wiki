@@ -29,7 +29,7 @@ Once out of the dungeon, Eric makes his way to the resistance in the mountains, 
 
 ## Characters
 
-- [[Eric]], [[David]] — prisoners who escape
+- [[Eric]] — the protagonist; [[David]] — his cellmate
 - The prisoners and guards of the dungeon: [[Peng]], [[Namacuix]], [[Bardon]], [[Ivar]], [[Rannulfer]], [[Vali]], [[Anghus]], [[Vlastimir]], [[Godfrey]], [[Akio Stormshark|Akio]], [[Samanya]], [[Stigr]]; guards [[Ulrich]], [[Skari]], [[Cadman]], [[Frode]], [[Pedro]], [[Gunter]], [[Kayne]], [[Ormr]]
 - In Harrisonville: [[Scott Barker|Scott]], [[Joseph Barker|Joseph]] and [[Jane Barker|Jane]]
 - At Misty Phlats and the resistance base: [[Crisig]], [[Samheir]], [[Xander|Zandar]], [[Elliott]], [[Lucas]], [[Aerelm]], [[Shetien]], [[Jaek]], [[Henri]]
