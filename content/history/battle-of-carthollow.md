@@ -16,7 +16,7 @@ The **Battle of Carthollow** is the massive battle at [[Carthollow]], King Carte
 | Place | [[Carthollow]] (called Carterville in older notes) |
 | Sides | The resistance and Xi forces against [[King Carter's Forces]] |
 | Leaders | [[Eric]], [[Jane Barker|Jane]] and [[Lucas]]; [[Xander]], [[Elliott]]; [[King Carter]]; [[King Augo]] |
-| Result | Ended in a parley; see the secrets |
+| Result | See the secrets |
 
 > [!info] Canon note
 > The April 2026 sheet (`sources/drive/organized-runaways-notes.md`) names King Carter's city **Carthollow** — "City that Eric originally lived in and as such, was arrested in. Home of King Carter and the setting of the final battle." Older notes (`sources/drive/runaways/runaways-ideas.md`) call it **Carterville** ("Battle of Carterville").
