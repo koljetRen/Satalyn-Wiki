@@ -9,12 +9,12 @@ sources:
   - sources/drive/slave-hunters/the-slave-book.md
 ---
 
-**Aegryamis** is a desert region of Satalyn with a single fertile river, ruled by two royal families, the homeland of the [[peoples/cultures/aegryamis|Aegryamis]] people.
+**Aegryamis** is a desert region of Satalyn with a single fertile river, ruled by two royal families, the homeland of the [[peoples/cultures/aegryamis-people|Aegryamis]] people.
 
 | | |
 | --- | --- |
 | Type | Region; dual monarchy |
-| Culture | [[peoples/cultures/aegryamis\|Aegryamis]] |
+| Culture | [[peoples/cultures/aegryamis-people\|Aegryamis]] |
 | Ruler / leader | Two royal families, one for each of the two towns on opposite banks of the river; the ruling family alternates with each king |
 | Climate | Desert, with sandstorms |
 | Real-world inspiration | The culture is based on Egypt and the Byzantine Empire |
@@ -31,7 +31,7 @@ Aegryamis is a desert with only one fertile river. Its two towns stand on opposi
 - **Religion:** two [[Aegryamis brother gods|brother gods]] were given the desert of Aegryamis as a punishment by the other gods. With only one fertile river between them, they went from bitter enemies to allies and settled on the dual monarchy. An older note counts this as one of the two major religions besides the worldwide pantheon.
 - **Names:** Aegryamis names draw on Basque, Bengali, Catalan, Czech, Malay, Nepali, Slovak, Slovene, Turkish, Urdu, Yoruba and Zulu names.
 
-See [[peoples/cultures/aegryamis|Aegryamis culture]] for the full culture.
+See [[peoples/cultures/aegryamis-people|Aegryamis culture]] for the full culture.
 
 ## Open questions
 

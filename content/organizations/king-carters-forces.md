@@ -38,9 +38,9 @@ The king holds [[The King's Trial]], a bracket tournament in which prisoners fig
 ## History
 
 - **Before the books:** one of Carter's force leaders attacked and ransacked a village that refused to join, killing [[Jane Barker]]'s mother and brother.
-- **Book 1:** the army from Carterville comes to [[Harrisonville]] and demands [[Eric]] and [[David]]. Later the army marches on [[Misty Phlats]], arriving sooner than expected, and the resistance flees.
+- **Book 1:** the army from Carthollow comes to [[Harrisonville]] and demands [[Eric]] and [[David]]. Later the army marches on [[Misty Phlats]], arriving sooner than expected, and the resistance flees.
 - **Book 2:** Carter's armies attack [[Keyesport Vale]] and capture the island and everyone on it. Captured resistance members are held on an [[island prison]].
-- **Book 3:** the resistance and its Xi allies march on Carterville, and a massive battle follows.
+- **Book 3:** the resistance and its Xi allies march on Carthollow, and a massive battle follows.
 
 > [!info] Canon note
 > The capital is **Carthollow** in the 2026 sheet and **Carterville** in older notes.

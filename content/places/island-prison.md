@@ -24,7 +24,7 @@ In the possible Book 2 plot, while retrieving weapons from the Southern [[Misty 
 - Is it the island the group escapes from in the draft campfire passage ("the day after they had escaped from the island and traveled north along the coast")?
 
 > [!warning]- Secrets (author only)
-> Eric is captured during the Book 2 attack on the island. In Book 3, the full resistance and Xi force attacks the prison island again and frees the rest of the resistance prisoners before marching on [[Carthollow|Carterville]].
+> Eric is captured during the Book 2 attack on the island. In Book 3, the full resistance and Xi force attacks the prison island again and frees the rest of the resistance prisoners before marching on [[Carthollow|Carthollow]].
 
 ## Sources
 

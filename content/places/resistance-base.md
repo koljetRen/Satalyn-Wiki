@@ -15,11 +15,11 @@ sources:
 | --- | --- |
 | Type | Hidden base |
 | Region | Southern [[Misty Peaks\|Misty Mountains]] |
-| Ruler / leader | [[Xander\|Zandar]] and [[Elliott]] |
+| Ruler / leader | [[Zandar]] and [[Elliott]] |
 
 ## Layout
 
-The author's list of Runaways sites includes the **resistance main cavern**, two views outside the base (one with [[Jane Barker|Jane]], one with [[Xander]]) and the [[Training Grove]]. The base has back passes through which the resistance escapes during the [[Battle of Misty Phlats]].
+The author's list of Runaways sites includes the **resistance main cavern**, two views outside the base (one with [[Jane Barker|Jane]], one with [[Zandar]], spelled "Xander" on the slide) and the [[Training Grove]]. The base has back passes through which the resistance escapes during the [[Battle of Misty Phlats]].
 
 ## In the stories
 

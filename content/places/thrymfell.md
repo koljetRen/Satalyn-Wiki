@@ -13,7 +13,7 @@ sources:
 | --- | --- |
 | Type | Forest (Thrymfell Forest); Thrymfell itself is not described |
 | Region | [[Skarg]] |
-| Culture | [[peoples/cultures/skarg\|Skargan]] |
+| Culture | [[peoples/cultures/skarg-people\|Skargan]] |
 
 ## Geography
 

@@ -8,7 +8,7 @@ sources:
   - sources/drive/runaways/runaways-ideas.md
   - sources/drive/organized-runaways-notes.md
 ---
-**King Carter** is the king who rules from [[Carthollow]] in [[The Runaways]], the ruler [[The Resistance]] fights to dethrone; the author's notes describe him as a "good guy king under control of evil".
+**King Carter** is the king who rules from [[Carthollow]] in [[The Runaways]], the ruler [[The Resistance]] fights to dethrone.
 
 | | |
 | --- | --- |
@@ -41,10 +41,11 @@ After the [[Fall of Fillyolia|fall of Fillyolia]], Carter sent his forces to reu
 - How exactly are Carter and [[King Augo]] related? (See Secrets.)
 
 > [!warning]- Secrets (author only)
+> - The author's notes sum him up as a "good guy king under control of evil".
 > - **Possession:** Carter's mood swings come from possession by [[Dherlin]]. After Carter humbly rebuilt Fillyolia, Dherlin learned of it and cast a spell on him to possess him whenever he wanted. When the possession takes over, Carter is power-hungry and rude; when it is just Carter, he is his normal, humble self. Dherlin doesn't want to do what is right, and Carter often doesn't remember what he did while possessed.
 > - **The Fillyolia twist ("Crazy plot twisting idea", no good guys in this war):** Augo and Carter were brothers in line for the throne of [[Fillyolia]], because their father was the former king's younger brother. Dherlin attacked Fillyolia and killed the king and his entire family, making Augo the rightful ruler. Augo, used to an easy noble life, declined and passed the throne to Carter, who took it with humility and rebuilt the kingdom with his own hands. Augo later grew greedy, started rumours of a resistance against Carter, and with [[Zandar]] spread the story that Carter had stolen the throne. With his life on the line Carter fought back in defence, but under Dherlin's possession he attacked to keep his power.
 > - **[[Jane Barker]]'s village** was ransacked by the leader of one of his forces, not on Carter's orders.
-> - **End of Book 3:** at the meeting after the battle of Carterville, Augo tries to stab Carter, but Lucas cuts off Augo's hand. Carter remains king. Afterwards Eric wakes to find Carter standing over him with a dagger; Eric disarms him with magic, senses the evil presence, and destroys Dherlin's presence in him.
+> - **End of Book 3:** at the meeting after the battle of Carthollow, Augo tries to stab Carter, but Lucas cuts off Augo's hand. Carter remains king. Afterwards Eric wakes to find Carter standing over him with a dagger; Eric disarms him with magic, senses the evil presence, and destroys Dherlin's presence in him.
 > - [[Brian]] joined the resistance because he saw Carter as too dangerous to rule because of his moods.
 
 ## Sources

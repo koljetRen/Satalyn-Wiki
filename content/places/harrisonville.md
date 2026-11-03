@@ -23,7 +23,7 @@ sources:
 
 ## In the stories
 
-In the rewritten Book 1 plot, Eric and David flee to Harrisonville from the prison, hiding from King Carter's forces in a small cave in a forest on the way. In Harrisonville they try to lodge at the inn but can't afford it and are turned out onto the streets. David steals money and has the guard called on him. [[Scott Barker|Scott]] recognises them and takes them to [[Joseph Barker|Joseph]] and [[Jane Barker|Jane]], and the five stay together for a few nights. When the army from Carterville comes and demands them, Joseph sends them away in the night and stays behind. They flee through the [[Aramore Forest]] towards the Southern [[Misty Peaks|Misty Mountains]].
+In the rewritten Book 1 plot, Eric and David flee to Harrisonville from the prison, hiding from King Carter's forces in a small cave in a forest on the way. In Harrisonville they try to lodge at the inn but can't afford it and are turned out onto the streets. David steals money and has the guard called on him. [[Scott Barker|Scott]] recognises them and takes them to [[Joseph Barker|Joseph]] and [[Jane Barker|Jane]], and the five stay together for a few nights. When the army from Carthollow comes and demands them, Joseph sends them away in the night and stays behind. They flee through the [[Aramore Forest]] towards the Southern [[Misty Peaks|Misty Mountains]].
 
 Harrisonville and the "Cave" are both among the Runaways sites the author pictured.
 

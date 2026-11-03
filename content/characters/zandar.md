@@ -29,7 +29,7 @@ sources:
 
 > [!warning]- Secrets (author only)
 > - **Zandar's betrayal:** he is "a nobody" who leads the resistance because he wants power. In the Fillyolia twist, he came to [[King Augo]] and offered to lead the resistance and make it real, in return for becoming Augo's second-hand man, intending to kill Augo once the throne was won. Together they spread the story that Carter had stolen Augo's throne.
-> - In the battle of Carterville, seeing the battle partly in his favour, he decides to take power, but sees Eric in his path first. He moves to kill Eric; [[David]] sacrifices himself to save Eric, and [[Elliott]] kills Zandar in Eric's defence. The character notes say he tries to kill both Augo and Carter, revealing who he really is, and is killed "by Tahir" (Elliott's alternate name).
+> - In the battle of Carthollow, seeing the battle partly in his favour, he decides to take power, but sees Eric in his path first. He moves to kill Eric; [[David]] sacrifices himself to save Eric, and [[Elliott]] kills Zandar in Eric's defence. The character notes say he tries to kill both Augo and Carter, revealing who he really is, and is killed "by Tahir" (Elliott's alternate name).
 
 ## Sources
 

@@ -7,11 +7,11 @@ sources:
   - sources/drive/organized-runaways-notes.md
   - sources/drive/runaways/runaways-background-characters.md
 ---
-**Akio Stormshark** is an [[Osisu|Osisuan]] fisherman turned mercenary with a drinking problem, a prisoner in the [[Carthollow Dungeon]] in [[The Runaways]] who becomes a key member of [[The Resistance]].
+**Akio Stormshark** is an [[Osisu people|Osisuan]] fisherman turned mercenary with a drinking problem, a prisoner in the [[Carthollow Dungeon]] in [[The Runaways]] who becomes a key member of [[The Resistance]].
 
 | | |
 | --- | --- |
-| Culture / race | [[Osisu\|Osisuan]] |
+| Culture / race | [[Osisu people\|Osisuan]] |
 | Appears in | [[The Runaways]] |
 | Affiliation | [[The Resistance]] (from Book 2, per the older notes) |
 | Rank / role | Mercenary; prisoner |

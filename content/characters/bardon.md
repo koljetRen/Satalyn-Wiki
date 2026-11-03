@@ -11,7 +11,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Aramore\|Aramorean]] |
+| Culture / race | [[Aramore people\|Aramorean]] |
 | Appears in | [[The Runaways]] |
 | Affiliation | [[The Resistance]] |
 | Rank / role | Former soldier; prisoner |

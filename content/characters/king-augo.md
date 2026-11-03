@@ -30,7 +30,7 @@ At the end of Book 1 the resistance sails from [[Moonwick]] to Keyesport Vale. T
 > [!warning]- Secrets (author only)
 > - **Fillyolia twist:** Augo and Carter were brothers in line for the throne of [[Fillyolia]], their father being the former king's younger brother. When [[Dherlin]] killed the king and his family, Augo became rightful ruler but declined, being used to an easy noble life, and passed the throne to Carter. Seeing Carter's growing power, Augo became greedy, started rumours of a resistance, and accepted [[Zandar]]'s offer to lead it. Together they spread the story that Carter had stolen the throne from Augo.
 > - Zandar secretly meant to kill Augo once the throne was won.
-> - At the meeting after the battle of Carterville, Augo tries to stab Carter, but [[Lucas]] cuts his hand off first. Augo is thrown in prison.
+> - At the meeting after the battle of Carthollow, Augo tries to stab Carter, but [[Lucas]] cuts his hand off first. Augo is thrown in prison.
 
 ## Sources
 

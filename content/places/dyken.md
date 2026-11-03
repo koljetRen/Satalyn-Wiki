@@ -9,12 +9,12 @@ sources:
   - sources/drive/runaways/runaways-ideas.md
 ---
 
-**Dyken** is a dry desert region of Satalyn made up of city-states, the homeland of the [[peoples/cultures/dyken|Dyken]] people.
+**Dyken** is a dry desert region of Satalyn made up of city-states, the homeland of the [[peoples/cultures/dyken-people|Dyken]] people.
 
 | | |
 | --- | --- |
 | Type | Region; a union of city-states |
-| Culture | [[peoples/cultures/dyken\|Dyken]] |
+| Culture | [[peoples/cultures/dyken-people\|Dyken]] |
 | Ruler / leader | A council of judges in each city-state; a president of Dyken elected every 5 years |
 | Climate | Dry desert |
 | Real-world inspiration | Israel; northeast Arizona just south of Page, Arizona. The culture is based on Athens and Hindu culture |
@@ -31,7 +31,7 @@ Dyken is dry desert. It has a coast: the [[Stormshark]] lives off the Osisu and 
 - **Religion:** every city has a temple that is also a school for children and adults. [[Gehflaun]], Goddess of Intelligence, is central to Dyken worship, and the Dyken feel most strongly how [[Krarkur]] twisted intelligence into castes.
 - **Names:** Dyken names draw on Albanian, Armenian, Belarusian, Bosnian, Bulgarian, Croatian, Galician, Georgian, Greek, Hebrew, Indonesian, Italian, Macedonian, Portuguese, Spanish, Egyptian and Greek and Roman (mythology and ancient) names.
 
-See [[peoples/cultures/dyken|Dyken culture]] for the full culture.
+See [[peoples/cultures/dyken-people|Dyken culture]] for the full culture.
 
 ## Settlements
 

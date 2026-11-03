@@ -9,11 +9,11 @@ sources:
   - sources/drive/runaways/runaways-ideas.md
   - sources/drive/organized-runaways-notes.md
 ---
-**Rykor** is a [[Xi]] swordsman in [[The Runaways]], the Xi warrior who confronts [[Eric]]'s group in [[Quino]] over their [[xiramite]] and later fights alongside [[The Resistance]].
+**Rykor** is a [[Xi people|Xi]] swordsman in [[The Runaways]], the Xi warrior who confronts [[Eric]]'s group in [[Quino]] over their [[xiramite]] and later fights alongside [[The Resistance]].
 
 | | |
 | --- | --- |
-| Culture / race | [[Xi]] |
+| Culture / race | [[Xi people\|Xi]] |
 | Height | 6'2" |
 | Appears in | [[The Runaways]] (Books 2–3) |
 | Affiliation | [[Xi warriors]]; [[The Resistance]] |

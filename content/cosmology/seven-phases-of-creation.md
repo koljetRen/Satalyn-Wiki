@@ -1,6 +1,6 @@
 ---
 title: Seven Phases of Creation
-aliases: [The Seven Phases, Phases of Creation, Creation of Satalyn]
+aliases: [The Seven Phases of Creation, The Seven Phases, Phases of Creation, Creation of Satalyn]
 tags: [cosmology, history]
 status: draft
 sources:

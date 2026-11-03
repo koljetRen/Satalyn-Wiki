@@ -39,7 +39,7 @@ The Nine came from the lowest caste of gods and didn't know that every world's s
 
 ## Ideas and open threads
 
-- The [[The Ice Age People|ice age people]] may remember a warm golden age before the ice.
+- The [[Ice Age People|ice age people]] may remember a warm golden age before the ice.
 - The map plan is to place the phase six golden-age cities before drawing the glaciers: near rivers, fertile valleys and coasts.
 
 ## Open questions

@@ -13,7 +13,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Skarg\|Skargan]] |
+| Culture / race | [[Skarg people\|Skargan]] |
 | Height | 5'9" |
 | Appears in | [[The Runaways]] |
 | Rank / role | Prisoner; runaway with Eric |
@@ -45,7 +45,7 @@ David starts out stuck up, caring only about himself, and grows humble over the 
 
 > [!warning]- Secrets (author only)
 > - **Newest version (2026):** David "dies in chapter 1": Eric watches him get beaten to death in a cafeteria skirmish in the dungeon.
-> - **Older version (runaways-ideas.md):** David betrays the resistance. While at [[Shadow's Edge]] he sneaks off and sends a report to the King about the resistance base. At the fort in Book 2, Eric sees him alongside the enemy soldiers. David becomes a servant to [[King Carter]] because of his willingness to give him information about the resistance. In Book 3 he comes out of Carterville as a messenger, and the resistance gives him a message for the king. In the final battle, when [[Zandar]] moves to kill Eric, David sacrifices himself to save him. His arc runs from selfish to humble, ending in "giving his life to save Eric's in the final battle".
+> - **Older version (runaways-ideas.md):** David betrays the resistance. While at [[Shadow's Edge]] he sneaks off and sends a report to the King about the resistance base. At the fort in Book 2, Eric sees him alongside the enemy soldiers. David becomes a servant to [[King Carter]] because of his willingness to give him information about the resistance. In Book 3 he comes out of Carthollow as a messenger, and the resistance gives him a message for the king. In the final battle, when [[Zandar]] moves to kill Eric, David sacrifices himself to save him. His arc runs from selfish to humble, ending in "giving his life to save Eric's in the final battle".
 
 ## Sources
 

@@ -10,12 +10,12 @@ sources:
   - sources/drive/runaways/the-runaways-sites-personal.md
 ---
 
-**Xi** is a small tropical island of Satalyn, home of the warrior [[peoples/cultures/xi|Xi]] people and once the seat of the [[Xi Empire]].
+**Xi** is a small tropical island of Satalyn, home of the warrior [[peoples/cultures/xi-people|Xi]] people and once the seat of the [[Xi Empire]].
 
 | | |
 | --- | --- |
 | Type | Island |
-| Culture | [[peoples/cultures/xi\|Xi]] |
+| Culture | [[peoples/cultures/xi-people\|Xi]] |
 | Ruler / leader | The [[Xi council of elders\|council of 17 elders]] |
 | Climate | Tropical |
 | Real-world inspiration | The culture is based on Sparta and ancient Japan |
@@ -31,7 +31,7 @@ An older note describes Xi as "a small tropical island that no one has discovere
 - **Way of life:** men train for war from the age of 8; children start team-building exercises at 3. The elders pair young people for marriage at 15.
 - **Religion:** [[Xi ancestor worship|ancestors watch over the people]].
 
-See [[peoples/cultures/xi|Xi culture]] for the full culture.
+See [[peoples/cultures/xi-people|Xi culture]] for the full culture.
 
 ## History
 

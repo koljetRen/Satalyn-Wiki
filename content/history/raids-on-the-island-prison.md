@@ -27,7 +27,7 @@ Eric returned to Xi and gathered a force to free the prisoners. They attacked th
 
 ## The second raid (Book 3)
 
-With the resistance soldiers now trained to fight like the Xi, the combined Xi and resistance army attacked the prison island again at full force and freed the rest of the resistance prisoners. It then marched at full speed on [[Carthollow|Carterville]] (see [[Battle of Carthollow]]).
+With the resistance soldiers now trained to fight like the Xi, the combined Xi and resistance army attacked the prison island again at full force and freed the rest of the resistance prisoners. It then marched at full speed on [[Carthollow|Carthollow]] (see [[Battle of Carthollow]]).
 
 ## Open questions
 

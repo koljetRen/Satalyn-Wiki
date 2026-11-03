@@ -1,5 +1,5 @@
 ---
-title: Magic
+title: Magic (section)
 ---
 
 Where magic comes from, who can use it, what it costs, and the materials bound up with it.
@@ -14,4 +14,4 @@ Where magic comes from, who can use it, what it costs, and the materials bound u
 - [[Wizards]] — who can become one, training, and known wizards
 - [[Magic Bans]] — the D&D note about Aerelm
 
-See also [[Xiramite]], the Xi metal that connects to its wielder.
+See also [[Xiramite]], the Xi metal that connects to its wielder, [[Magurkai]], the God of Magic, the [[Magic holy site]] where he gave magic to the first cult, and the [[Council of Worldly Wizards]].

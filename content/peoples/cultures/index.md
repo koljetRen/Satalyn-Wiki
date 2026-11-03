@@ -2,9 +2,9 @@
 title: Cultures
 ---
 
-The human cultures of Satalyn: [[Xi]], [[Osisu]], [[Dyken]], [[Aramore]], [[Aegryamis]] and [[Skarg]].
+The human cultures of Satalyn: the [[Xi people|Xi]], [[Osisu people|Osisu]], [[Dyken people|Dyken]], [[Aramore people|Aramoreans]], [[Aegryamis people|Aegryamis]] and [[Skarg people|Skargans]].
 
-Each culture has its own page here; the region it lives in has a page of the same name under [[places/index|Places]].
+Each culture has its own page here, titled "… people". The region it lives in has a separate page under [[places/index|Places]], titled with the bare name: [[places/xi|Xi]], [[places/osisu|Osisu]], [[places/dyken|Dyken]], [[places/aramore|Aramore]], [[places/aegryamis|Aegryamis]] and [[places/skarg|Skarg]].
 
 | Culture | Homeland | Real-world inspiration | Known for |
 | --- | --- | --- | --- |

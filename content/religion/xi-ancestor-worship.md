@@ -8,7 +8,7 @@ sources:
   - sources/drive/runaways/runaways-ideas.md
 ---
 
-**Xi ancestor worship** is the religion of the [[Xi]] people, who believe their ancestors watch over them.
+**Xi ancestor worship** is the religion of the [[Xi people|Xi]] people, who believe their ancestors watch over them.
 
 ## Beliefs
 

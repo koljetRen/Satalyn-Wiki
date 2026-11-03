@@ -14,7 +14,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | Has [[Xi]] blood |
+| Culture / race | Has [[Xi people\|Xi]] blood |
 | Height | 6'0" |
 | Appears in | [[The Runaways]] (Books 1–3) |
 | Affiliation | [[The Resistance]] |
@@ -47,7 +47,7 @@ Lucas's dagger was a gift from his mother; "She said to reveal it only when it w
 
 > [!warning]- Secrets (author only)
 > - **Lucas is Eric's half cousin.** In the 2025 family tree, Lucas's mother is the half sibling of [[Brian]] (Eric's father) through Brian's Xi-descended mother. In the older version, Lucas's and Eric's mothers were twin sisters of an Aramorean line with Xi blood, separated early in life; Lucas was the elder twin's child (see [[Eric]]).
-> - At the meeting after the battle of Carterville, [[King Augo]] tries to stab [[King Carter]], but Lucas cuts Augo's hand off first.
+> - At the meeting after the battle of Carthollow, [[King Augo]] tries to stab [[King Carter]], but Lucas cuts Augo's hand off first.
 > - He is in the group that sets out for [[Averill]] to find Dherlin.
 
 ## Sources

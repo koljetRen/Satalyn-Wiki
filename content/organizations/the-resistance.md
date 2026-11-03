@@ -24,7 +24,7 @@ The resistance has four levels of command (2021 leadership doc). Each level belo
 
 | Level | Rank | Leads | Unit size | Notable holders (2021 leadership doc) | Holders in the 2024 cast list |
 | --- | --- | --- | --- | --- | --- |
-| Lead command | Leader, co-leader (general) | The whole resistance: leads it, makes its decisions and plans its movements | — | [[Zandar\|Xander]], [[Elliott]], [[Aerelm\|Aerlem]] | Zandar (leader), Elliott (2nd in command) |
+| Lead command | Leader, co-leader (general) | The whole resistance: leads it, makes its decisions and plans its movements | — | [[Zandar]], [[Elliott]], [[Aerelm]] | Zandar (leader), Elliott (2nd in command) |
 | 1st level | Captains, commanders | A division of 4–5 battalions | 320–1,250 people | [[Samheir\|Sam]], [[Brian]], [[Joseph Barker]], [[Kolt]], [[Scott Barker\|Scott]] | Brian, Sam |
 | 2nd level | Lieutenants | A battalion of 4–5 platoons | 80–250 people | [[Suew]], [[Jaek]], [[Eric]] | Scott, Kolt, Jaek ("3rd level … lieutenant") |
 | 3rd level | Sergeants | A platoon | 20–50 people | [[Nad]], [[Lucas]], [[Crewt]] | Suew, Nad |
@@ -62,7 +62,7 @@ The resistance has four levels of command (2021 leadership doc). Each level belo
 
 - **Book 1:** recruits are trained as soldiers at the base; the resistance scouts and buys weapons at [[Shadow's Edge]]. When King Carter's army marches on Misty Phlats sooner than expected, the resistance plans an escape toward Keyesport Vale: [[Samheir]] leads a frontal charge, [[Zandar]] and [[Elliott]] strike from the side to distract the main army, and the rest escape through the back passes. Eric's fireball over the valley kills many resistance men as well as enemies, and some members are upset by it. The groups regroup one by one at Mourncliff, then travel to [[Moonwick]] and take ships to Keyesport Vale.
 - **Book 2:** King Carter's armies attack Keyesport Vale and capture the island; only a few members are hidden by Eric and Jane's magic. The survivors find sanctuary on [[Xi]], learn to fight like the Xi, recover the weapons from the old base, and attack the [[island prison]] where captured resistance members are held.
-- **Book 3:** the resistance, joined with Xi forces, frees the rest of its prisoners and marches on Carterville.
+- **Book 3:** the resistance, joined with Xi forces, frees the rest of its prisoners and marches on Carthollow.
 
 ## Ideas and open threads
 
@@ -73,7 +73,7 @@ The resistance has four levels of command (2021 leadership doc). Each level belo
 > - **Fates in the 2021 leadership doc:** Sam (dead), Brian (captured), Joseph Barker (captured). Joseph later dies in prison.
 > - [[David]] secretly reports the location of the resistance base to the King (older plot).
 > - At the fort in Book 2, all members except Eric, Jane, Lucas, Bella, Jaek, Kaz, Crisig and Crewt are killed or captured. Suew, Nad and Scott are among the prisoners freed from the island prison; Eric is captured in that attack.
-> - **End:** in the battle of Carterville Zandar tries to seize power and is killed by Elliott. After the battle the resistance is disbanded and all members are free to do what they want; Carter remains king and Augo is imprisoned.
+> - **End:** in the battle of Carthollow Zandar tries to seize power and is killed by Elliott. After the battle the resistance is disbanded and all members are free to do what they want; Carter remains king and Augo is imprisoned.
 
 ## Sources
 

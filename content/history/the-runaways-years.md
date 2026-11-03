@@ -36,7 +36,7 @@ sources:
 - **[[Battle of Misty Phlats]]**: King Carter's army attacks; the resistance escapes, regroups at [[Mourncliff]], and sails from [[Moonwick]] to [[Keyesport Vale]], where ships appear on the horizon.
 
 > [!info] Canon note
-> How Eric gets out of prison differs between notes. The older Book 1 plot (`sources/drive/runaways/runaways-ideas.md`) has Brian free Eric and David after a few weeks and send them to Harrisonville. The April 2026 sheet (`sources/drive/organized-runaways-notes.md`) has [[Bardon]], a resistance member captured on purpose, team up with [[Rykor]] to break out Eric and [[Akio Stormshark|Aiko]] (Akio). Both sheets agree Carthollow (Carterville in older notes) is King Carter's city.
+> How Eric gets out of prison differs between notes. The older Book 1 plot (`sources/drive/runaways/runaways-ideas.md`) has Brian free Eric and David after a few weeks and send them to Harrisonville. The April 2026 sheet (`sources/drive/organized-runaways-notes.md`) has [[Bardon]] team up with [[Rykor]] to break out Eric and [[Akio Stormshark|Akio]] (spelled "Aiko" there). Both sheets agree Carthollow (Carterville in older notes) is King Carter's city.
 
 ## 1067–1069: Book 2
 
@@ -65,11 +65,12 @@ sources:
 - The slave book starts in 1071, and its hero meets Eric after two or three years of slave hunting — i.e. around 1073–1074, matching the 1074 join?
 
 > [!warning]- Secrets (author only)
+> - In the 2026 sheet, Bardon is a resistance member who was captured on purpose.
 > Plot twists and later events, from `sources/drive/runaways/runaways-ideas.md` unless noted:
 > - **Book 1:** David sends a report to the king about the resistance base from Shadow's Edge. At Misty Phlats Eric fireballs the whole valley, killing many resistance men too, and lies in a death-like state until Jane reaches him in a dream.
 > - **Book 2:** Eric sees David among the enemy at the fort. In the first island raid Eric is captured, falls into depression and starts having flashbacks.
-> - **Book 3:** Crisig frees Eric, who escapes with Brian, Kolt and Henri to Sprake in Dyken and calls Jane through a dream. Eric learns he killed his mother through uncontrolled magic, which is why he was imprisoned, and that Brian is his father. Jane and Eric share a first kiss. At Carterville, David (now Carter's servant) dies saving Eric from Xander, who tries to seize power; Elliott kills Xander. Lucas cuts off Augo's hand when Augo tries to stab Carter. Carter stays king, Augo is imprisoned, and the resistance is disbanded. That night Dherlin, possessing Carter, tries to kill Eric; Eric destroys Dherlin's presence in Carter.
-> - **After Book 3:** Eric and Jane marry before leaving for Averill. On the quest Jane becomes pregnant; Dherlin tries to curse the child, and Scott takes the curse instead and dies. Jane stays at [[Lucal]] while the rest go to defeat Dherlin. Eric defeats the evil wizard and returns; as they leave Lucal, Jane gives birth to a boy, named Scott after her brother. After a few years in Lucal they return to Carterville for the rest of their lives.
+> - **Book 3:** Crisig frees Eric, who escapes with Brian, Kolt and Henri to Sprake in Dyken and calls Jane through a dream. Eric learns he killed his mother through uncontrolled magic, which is why he was imprisoned, and that Brian is his father. Jane and Eric share a first kiss. At Carthollow, David (now Carter's servant) dies saving Eric from Zandar, who tries to seize power; Elliott kills Zandar. Lucas cuts off Augo's hand when Augo tries to stab Carter. Carter stays king, Augo is imprisoned, and the resistance is disbanded. That night Dherlin, possessing Carter, tries to kill Eric; Eric destroys Dherlin's presence in Carter.
+> - **After Book 3:** Eric and Jane marry before leaving for Averill. On the quest Jane becomes pregnant; Dherlin tries to curse the child, and Scott takes the curse instead and dies. Jane stays at [[Lucal]] while the rest go to defeat Dherlin. Eric defeats the evil wizard and returns; as they leave Lucal, Jane gives birth to a boy, named Scott after her brother. After a few years in Lucal they return to Carthollow for the rest of their lives.
 > - The 2026 sheet's David "dies in chapter 1" (`sources/drive/organized-runaways-notes.md`) conflicts with every David event above.
 
 ## Sources

@@ -102,7 +102,7 @@ Aramoreans in *The Runaways* (per the 2026 Characters sheet):
 | Name | Role |
 | --- | --- |
 | [[Eric]] | The main character |
-| [[Bardon]] | Resistance member who was captured on purpose |
+| [[Bardon]] | A prisoner in the [[Carthollow Dungeon]] who travels with Eric |
 | [[Rannulfer]] | The dungeon jester |
 | [[Ulrich]] | A guard in the [[Carthollow Dungeon]] |
 | [[The Torturer]] | Tortures prisoners for information in Carthollow |
@@ -117,6 +117,9 @@ Aramoreans in *The Runaways* (per the 2026 Characters sheet):
 
 - Who is "the evil wizard" behind the desolation of the ground water? Presumably [[Dherlin]], the "evil wizard who is thought to be dead" in the cast list, but the Cultures sheet doesn't name him.
 - [[Colored Corn]] is said to withstand "the cold temperatures of the north", but Aramore's climate is listed as dry prairie. Is the corn grown in northern Aramore?
+
+> [!warning]- Secrets (author only)
+> - The 2026 Characters sheet describes [[Bardon]] as a "Resistance member who was captured on purpose".
 
 ## Sources
 

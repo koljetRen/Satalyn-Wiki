@@ -7,12 +7,12 @@ sources:
   - sources/drive/organized-runaways-notes.md
 ---
 
-**Skarg** is a rainy coastal forest region of Satalyn, the homeland of the [[peoples/cultures/skarg|Skargan]] people.
+**Skarg** is a rainy coastal forest region of Satalyn, the homeland of the [[peoples/cultures/skarg-people|Skargan]] people.
 
 | | |
 | --- | --- |
 | Type | Region |
-| Culture | [[peoples/cultures/skarg\|Skargan]] |
+| Culture | [[peoples/cultures/skarg-people\|Skargan]] |
 | Ruler / leader | A council of elders in each town; representatives meet at the capital for nationwide decisions |
 | Climate | Coastal forest, lots of rain |
 | Real-world inspiration | The Pacific Northwest; the culture is based on the Norse and Celts |
@@ -29,7 +29,7 @@ Skarg is a coastal forest with a lot of rain. The [[Thrymfell|Thrymfell Forest]]
 - **Religion:** the same elemental-spirit faith as [[places/aramore|Aramore]], led by the [[Skyfather]], but more people still believe it, especially up north in Thrymfell and Northwatch.
 - **Names:** Skargan names draw on Danish, Dutch, Finnish, Icelandic, Irish, Limburgish, Norwegian, Russian, Swedish, Ukrainian, Welsh, Norse (mythology and ancient) and Germanic names.
 
-See [[peoples/cultures/skarg|Skargan culture]] for the full culture.
+See [[peoples/cultures/skarg-people|Skargan culture]] for the full culture.
 
 ## In the stories
 
