@@ -18,7 +18,7 @@ To start a package: open a new cloud session on this repository and paste the pa
 | 3 | Peoples and nature | `peoples/`, `nature/` | `organized-runaways-notes.md`, `claude-doc/world-creation-notes.md` | [ ] |
 | 4 | Places | `places/` | all sources (places are scattered everywhere) | [x] |
 | 5 | Main characters and organizations | `characters/` (main and named supporting cast), `organizations/` | `runaways-character-info-personal.md`, `runaways-ideas.md`, `organized-runaways-notes.md`, `the-runaways-ideas-personal.md`, `resistance-leadership-personal.md` | [ ] |
-| 6 | Stories, minor characters and the D&D notes | `stories/`, `characters/` (prison inmates and guards, slave-book cast only) | `runaways-ideas.md`, `slave-hunters/*`, `runaways-background-characters.md`, `book-2-stomped-in-the-dust.md`, `notes-from-dnd-about-my-world.md` | [ ] |
+| 6 | Stories, minor characters and the D&D notes | `stories/`, `characters/` (prison inmates and guards, slave-book cast only) | `runaways-ideas.md`, `slave-hunters/*`, `runaways-background-characters.md`, `book-2-stomped-in-the-dust.md`, `notes-from-dnd-about-my-world.md` | [x] |
 
 ## Wave 2 — make it one wiki (after wave 1 is merged)
 
