@@ -8,12 +8,12 @@ sources:
   - sources/claude-doc/world-creation-notes.md
 ---
 
-**Osisu** is an island nation of Satalyn built on a chain of volcanoes, the homeland of the [[peoples/cultures/osisu|Osisuan]] people.
+**Osisu** is an island nation of Satalyn built on a chain of volcanoes, the homeland of the [[peoples/cultures/osisu-people|Osisuan]] people.
 
 | | |
 | --- | --- |
 | Type | Region; island nation |
-| Culture | [[peoples/cultures/osisu\|Osisuan]] ([[Humans\|human]]) |
+| Culture | [[peoples/cultures/osisu-people\|Osisuan]] ([[Humans\|human]]) |
 | Ruler / leader | A chief and a shaman on each island; the chiefs together lead Osisu; the queen shaman chooses the chiefs |
 | Climate | Not recorded |
 | Real-world inspiration | The culture is based on the Maori and Maya |
@@ -30,7 +30,7 @@ The islands are a chain of volcanoes, some active and some dormant, with beaches
 - **Religion:** the people worship an ocean goddess.
 - **Names:** last names are chosen with a person's expertise and come from something in the region, such as the fisherman's name Stormshark. Names draw on Estonian, Hawaiian, Maori, Swahili, Thai, Near Eastern and Hindu names, with African and Khmer last names.
 
-See [[peoples/cultures/osisu|Osisuan culture]] for the full culture.
+See [[peoples/cultures/osisu-people|Osisuan culture]] for the full culture.
 
 ## In the stories
 

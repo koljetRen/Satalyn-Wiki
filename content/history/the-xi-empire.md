@@ -9,13 +9,13 @@ sources:
   - sources/drive/runaways/the-runaways-sites-personal.md
 ---
 
-**The Xi Empire** (350–430) was the period when the [[Xi]], a warrior people from a small tropical island, crossed the sea and ruled part of the mainland's west coast before their council of elders chose to withdraw.
+**The Xi Empire** (350–430) was the period when the [[Xi people|Xi]], a warrior people from a small tropical island, crossed the sea and ruled part of the mainland's west coast before their council of elders chose to withdraw.
 
 | | |
 | --- | --- |
 | Date | 350–430 |
 | Place | The west coast of the mainland, ruled from [[Xi]] |
-| People involved | The [[Xi]] and their [[Xi Council of Elders|council of 17 elders]] |
+| People involved | The [[Xi people\|Xi]] and their [[Xi Council of Elders|council of 17 elders]] |
 | Result | The Xi pulled out and returned to their island |
 
 ## Background

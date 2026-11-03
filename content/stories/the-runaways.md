@@ -20,7 +20,7 @@ sources:
 | --- | --- |
 | Series | *The Runaways* (main series), with two spin-offs |
 | Years in-world | 1067–1074 |
-| Main characters | [[Eric]], [[David]], [[Jane Barker]], [[Lucas]], [[Scott Barker]], [[King Carter]], [[Brian]], [[Xander]] |
+| Main characters | [[Eric]], [[David]], [[Jane Barker]], [[Lucas]], [[Scott Barker]], [[King Carter]], [[Brian]], [[Zandar]] |
 | Main places | [[Carthollow]], [[Misty Phlats]], [[Keyesport Vale]], [[Xi]] |
 | Status | Book 1 drafted and being rewritten; Books 2 and 3 outlined; spin-offs at idea or outline stage |
 
@@ -85,11 +85,11 @@ The slide deck "The Runaways sites" has one slide per location (pictures not imp
 > [!warning]- Secrets (author only)
 > **Slide 6** is titled "Dherlin Dream".
 >
-> **The twist behind the war** ("crazy plot twisting idea"): there are no good guys in this war. [[King Augo|Augo]] and Carter were brothers in line for the throne of [[Fillyolia]]; when [[Dherlin]] killed the king and his family, Augo became the rightful ruler but declined, and Carter took the throne and rebuilt the kingdom. Dherlin then cast a spell to possess Carter whenever he wanted, which makes Carter seem bipolar. Augo grew greedy and started rumours of a resistance; [[Xander]] offered to lead it in return for being Augo's second-hand man, meaning to kill Augo once he had the throne. (Full details on the character pages owned by Package 5.)
+> **The twist behind the war** ("crazy plot twisting idea"): there are no good guys in this war. [[King Augo|Augo]] and Carter were brothers in line for the throne of [[Fillyolia]]; when [[Dherlin]] killed the king and his family, Augo became the rightful ruler but declined, and Carter took the throne and rebuilt the kingdom. Dherlin then cast a spell to possess Carter whenever he wanted, which makes Carter seem bipolar. Augo grew greedy and started rumours of a resistance; [[Zandar]] offered to lead it in return for being Augo's second-hand man, meaning to kill Augo once he had the throne. (Full details on the character pages owned by Package 5.)
 >
 > **Arcs (spoilers):** Eric has PTSD after the battle at Misty Phlats and flashbacks from before the dungeon. David ends up giving his life to save Eric in the final battle. Scott's view of Jane changes when he learns that Lucas's leadership of the Xi is really coming from Jane.
 >
-> **After Book 3.** The notes on Eric and Jane's relationship run past the end of Book 3: after the battle of Carterville, but before they leave for [[Averill]], Eric and Jane marry. During their adventure Jane becomes pregnant without knowing it, until Dherlin mentions it and tries to curse the child; Scott takes the curse instead and dies of it despite their efforts to cure him. When Jane can no longer travel, she stays at [[Lucal]] (at Eric's request and the council of others) while the rest go to attack Dherlin. Eric defeats the evil wizard and returns to Jane; as they start to leave Lucal she goes into labour, and they name their son Scott after her brother. After a few years in Lucal they go back to Carterville to live out their lives. The notes don't say which book this belongs to (see [[The Joining of the Series]]).
+> **After Book 3.** The notes on Eric and Jane's relationship run past the end of Book 3: after the battle of Carthollow, but before they leave for [[Averill]], Eric and Jane marry. During their adventure Jane becomes pregnant without knowing it, until Dherlin mentions it and tries to curse the child; Scott takes the curse instead and dies of it despite their efforts to cure him. When Jane can no longer travel, she stays at [[Lucal]] (at Eric's request and the council of others) while the rest go to attack Dherlin. Eric defeats the evil wizard and returns to Jane; as they start to leave Lucal she goes into labour, and they name their son Scott after her brother. After a few years in Lucal they go back to Carthollow to live out their lives. The notes don't say which book this belongs to (see [[The Joining of the Series]]).
 
 ## Sources
 

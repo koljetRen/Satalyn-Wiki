@@ -17,7 +17,7 @@ sources:
 | Rank | One of the Nine, lifted from the lowest caste |
 | Gift to mortals | Reading, writing and study |
 | Flaw | Believed knowledge would simply make everyone happy |
-| Worshipped most by | The [[Dyken]] people |
+| Worshipped most by | The [[Dyken people\|Dyken]] people |
 | Sacred creature | One, rumoured (see [[Sacred Creatures]]) |
 
 ## Domain and gift

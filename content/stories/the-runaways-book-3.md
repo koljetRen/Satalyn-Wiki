@@ -44,14 +44,14 @@ Following on from *[[Stomped in the Dust]]*, Book 3 carries the resistance's war
 > 12. Eric becomes even more depressed.
 > 13. Jane comforts Eric and they share a special moment (a little kiss).
 > 14. They find out Brian is Eric's father.
-> 15. They decide on a plan to attack Carterville.
+> 15. They decide on a plan to attack Carthollow.
 > 16. The full force attacks the [[Island Prison|prison island]] again and frees the rest of the resistance prisoners.
-> 17. They march at full speed straight for Carterville.
-> 18. Approaching Carterville, they see a messenger sent out, and are surprised to see that it is [[David]].
+> 17. They march at full speed straight for Carthollow.
+> 18. Approaching Carthollow, they see a messenger sent out, and are surprised to see that it is [[David]].
 > 19. David has become a servant to Carter because of his willingness to give him information about the resistance.
-> 20. They give David a message to relay to the king, then attack Carterville.
+> 20. They give David a message to relay to the king, then attack Carthollow.
 > 21. A massive battle begins.
-> 22. [[Xander|Zandar]], seeing the battle partly going his way, decides he wants to take power, but sees Eric in his path first.
+> 22. [[Zandar]], seeing the battle partly going his way, decides he wants to take power, but sees Eric in his path first.
 > 23. He approaches Eric to kill him, but David sacrifices himself to save Eric.
 > 24. [[Elliott]] kills Zandar in defence of Eric.
 > 25. Eric uses magic to call loudly for the fighting to stop.
@@ -62,7 +62,7 @@ Following on from *[[Stomped in the Dust]]*, Book 3 carries the resistance's war
 > 30. They discuss what just happened with a few friends and decide it is best to go and put an end to this threat.
 > 31. They decide [[Averill]] is the best place to start looking for Dherlin, and gather a group to go: Eric, Jane, Lucas, [[Scott Barker|Scott]], [[Jaek]], Crisig, [[Crewt]], [[Rykor]] and [[Liko]].
 >
-> **Eric and Jane.** After they reunite, Jane doesn't want to be separated again and, without knowing it, helps Eric through his depression and PTSD. As the depression lifts he has a flashback of killing his mother and wants nothing to do with anyone. Jane finds him overlooking the ocean and comforts him; he tells her everything, and she gives him a hug and a kiss. Thus their romance begins. They marry after the battle of Carterville and before leaving for Averill (what follows is on [[The Runaways]]).
+> **Eric and Jane.** After they reunite, Jane doesn't want to be separated again and, without knowing it, helps Eric through his depression and PTSD. As the depression lifts he has a flashback of killing his mother and wants nothing to do with anyone. Jane finds him overlooking the ocean and comforts him; he tells her everything, and she gives him a hug and a kiss. Thus their romance begins. They marry after the battle of Carthollow and before leaving for Averill (what follows is on [[The Runaways]]).
 >
 > **Canon notes.**
 > - The plot calls the city Carterville; the 2026 notes call it Carthollow.

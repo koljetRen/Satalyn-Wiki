@@ -33,7 +33,7 @@ Sailors pray to her for safe passage. Lost ships are said to have lost her favou
 
 ## Ideas and open threads
 
-- A water-dwelling people, such as possible [[Merfolk|merfolk]], would favour the water god, who may have chosen where the first merfolk lived.
+- A water-dwelling people, such as possible merfolk, would favour the water god, who may have chosen where the first merfolk lived.
 
 > [!info] Canon note
 > The older Runaways god list (sources/drive/runaways/runaways-ideas.md) calls Ozefio "God of the Seas", male, who "controls all that happens in and on the sea". The 2026 notes make Ozefio a goddess.

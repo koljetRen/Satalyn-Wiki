@@ -7,7 +7,7 @@ sources:
   - sources/drive/organized-runaways-notes.md
 ---
 
-The **ocean goddess of Osisu** is the goddess worshipped by the [[Osisu]] island people, represented on the islands by the queen shaman.
+The **ocean goddess of Osisu** is the goddess worshipped by the [[Osisu people|Osisu]] island people, represented on the islands by the queen shaman.
 
 ## Worship
 

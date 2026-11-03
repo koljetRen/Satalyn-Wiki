@@ -24,7 +24,7 @@ Joseph's family joined the resistance after his wife and elder son were killed w
 
 ## Role in the story
 
-Joseph is only seen in Book 1, but is mentioned a lot throughout the series. In [[Harrisonville]], Scott brings [[Eric]] and [[David]] to him and Jane, and they stay together for a few nights while he helps get them better resources. When the army from Carterville comes and demands them, Joseph makes the others flee in the night but stays behind himself.
+Joseph is only seen in Book 1, but is mentioned a lot throughout the series. In [[Harrisonville]], Scott brings [[Eric]] and [[David]] to him and Jane, and they stay together for a few nights while he helps get them better resources. When the army from Carthollow comes and demands them, Joseph makes the others flee in the night but stays behind himself.
 
 He is one of the few who let Jane be strong and lead.
 

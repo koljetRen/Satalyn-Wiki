@@ -26,7 +26,7 @@ After the [[Fall of Fillyolia|fall of Fillyolia]], some villages tried to build 
 > [!warning]- Secrets (author only)
 > King Carter did not order the ransacking of Jane's village: the leader of the small force sent there did it on his own after the village declined his offer.
 >
-> From the "crazy plot twisting idea" in the Runaways notes: [[King Augo|Augo]] and [[King Carter|Carter]] were brothers in line for the throne of Fillyolia, because their father was the former king's younger brother. [[Dherlin]] attacked Fillyolia and killed the king and his entire family, making Augo the rightful ruler. Augo, used to an easy noble life, declined and passed the throne to Carter, who took it humbly and rebuilt the kingdom with his own hands. Dherlin then cast a spell to possess Carter whenever he wanted. Augo grew greedy, started rumours of a resistance, and with [[Xander]] spread the story that Carter had stolen the throne from him.
+> From the "crazy plot twisting idea" in the Runaways notes: [[King Augo|Augo]] and [[King Carter|Carter]] were brothers in line for the throne of Fillyolia, because their father was the former king's younger brother. [[Dherlin]] attacked Fillyolia and killed the king and his entire family, making Augo the rightful ruler. Augo, used to an easy noble life, declined and passed the throne to Carter, who took it humbly and rebuilt the kingdom with his own hands. Dherlin then cast a spell to possess Carter whenever he wanted. Augo grew greedy, started rumours of a resistance, and with [[Zandar]] spread the story that Carter had stolen the throne from him.
 
 ## Sources
 

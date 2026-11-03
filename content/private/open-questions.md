@@ -92,7 +92,7 @@ Questions and conflicts found while building the wiki, for the author to decide.
 - **Unexplained sites:** Wolf Camp Clearing, Drakes alley, Magical Rock (sources/drive/runaways/the-runaways-sites-personal.md); "the holding trees" in the Southern Misty Peaks (sources/drive/runaways/runaways-ideas.md).
 - **Which island?** The draft campfire passage has the group "escaped from the island and traveled north along the coast": Keyesport Vale, the island prison, or another? (sources/drive/runaways/paragraphs-for-the-runaways-personal.md).
 - **Where is Eric held in Book 3** before Crisig frees him and they turn up in Sprake? (sources/drive/runaways/runaways-ideas.md).
-- **Link targets (for Package 7):** places pages link the six region/culture pairs by path (`[[places/aramore|...]]`, `[[peoples/cultures/aramore|...]]`) because the file names collide; check those culture paths match what Package 3 wrote.
+- **Link targets (for Package 7):** places pages link the six region/culture pairs by path (`[[places/aramore|...]]`, `[[peoples/cultures/aramore-people|...]]`) because the file names collide; check those culture paths match what Package 3 wrote.
 
 ## Characters
 

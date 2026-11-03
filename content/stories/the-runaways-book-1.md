@@ -32,7 +32,7 @@ Once out of the dungeon, Eric makes his way to the resistance in the mountains, 
 - [[Eric]] — the protagonist; [[David]] — his cellmate
 - The prisoners and guards of the dungeon: [[Peng]], [[Namacuix]], [[Bardon]], [[Ivar]], [[Rannulfer]], [[Vali]], [[Anghus]], [[Vlastimir]], [[Godfrey]], [[Akio Stormshark|Akio]], [[Samanya]], [[Stigr]]; guards [[Ulrich]], [[Skari]], [[Cadman]], [[Frode]], [[Pedro]], [[Gunter]], [[Kayne]], [[Ormr]]
 - In Harrisonville: [[Scott Barker|Scott]], [[Joseph Barker|Joseph]] and [[Jane Barker|Jane]]
-- At Misty Phlats and the resistance base: [[Crisig]], [[Samheir]], [[Xander|Zandar]], [[Elliott]], [[Lucas]], [[Aerelm]], [[Shetien]], [[Jaek]], [[Henri]]
+- At Misty Phlats and the resistance base: [[Crisig]], [[Samheir]], [[Zandar]], [[Elliott]], [[Lucas]], [[Aerelm]], [[Shetien]], [[Jaek]], [[Henri]]
 
 ## Places
 
@@ -65,11 +65,11 @@ The first draft, "The Runaways - First Draft" (2023-03-22), uses older names (Ca
 > 5. In Harrisonville they try to lodge at the inn, but don't have enough money and are kicked out to the streets.
 > 6. David steals money from people and gets the guard called on him.
 > 7. They meet [[Scott Barker|Scott]], who recognizes them and leads them to [[Joseph Barker|Joseph]] and [[Jane Barker|Jane]]. The five stay together for a few nights while Eric and David are given better resources.
-> 8. The army from Carterville comes and demands them, so Joseph makes them flee in the night, but stays behind himself.
+> 8. The army from Carthollow comes and demands them, so Joseph makes them flee in the night, but stays behind himself.
 > 9. They travel through the [[Aramore Forest]] to the Southern Misty Mountains.
 > 10. While sleeping in the Aramore Forest, Eric and Jane get a dream about [[Dherlin]].
 > 11. They reach [[Misty Phlats]] and stay at the inn, where they meet [[Crisig]] and [[Samheir]].
-> 12. With Samheir they travel to the resistance base and meet [[Xander|Zandar]] and [[Elliott]].
+> 12. With Samheir they travel to the resistance base and meet [[Zandar]] and [[Elliott]].
 > 13. Eric and David start training as soldiers; Eric meets and befriends [[Lucas]].
 > 14. [[Aerelm]] visits the resistance and senses the magic in Eric.
 > 15. Eric starts training as a wizard as well.

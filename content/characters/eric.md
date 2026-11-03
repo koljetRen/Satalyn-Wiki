@@ -16,11 +16,11 @@ sources:
   - sources/drive/slave-hunters/slave-hunters-stuff.md
 ---
 
-**Eric** is the protagonist of [[The Runaways]], an [[Aramore|Aramorean]] warrior and wizard who wakes up in the [[Carthollow Dungeon]] with no memory and rises to become one of the leaders of [[The Resistance]].
+**Eric** is the protagonist of [[The Runaways]], an [[Aramore people|Aramorean]] warrior and wizard who wakes up in the [[Carthollow Dungeon]] with no memory and rises to become one of the leaders of [[The Resistance]].
 
 | | |
 | --- | --- |
-| Culture / race | [[Aramore\|Aramorean]], with [[Xi]] blood |
+| Culture / race | [[Aramore people\|Aramorean]], with [[Xi people\|Xi]] blood |
 | Height | 6'0" |
 | Appears in | [[The Runaways]] (Books 1–3); the slave book |
 | Affiliation | [[The Resistance]] |
@@ -40,7 +40,7 @@ Eric starts out with raw power and is unable to control his emotions. After the 
 
 Eric lived in [[Carthollow]], the home of [[King Carter]], and was arrested there. He wakes up in the city's dungeon with no memory of his life before. His mother was known for always caring for the less fortunate (see [[Eric's mother]]), and in one draft passage his father is described as a war veteran, "one of the best".
 
-Eric carries [[Xi]] blood, which is why he can connect to [[xiramite]]. His magic comes from what the older notes call a powerful, previously dormant strand in his ancestry, the same rare case as [[Dherlin]] (see [[Bloodline magic]]).
+Eric carries [[Xi people|Xi]] blood, which is why he can connect to [[xiramite]]. His magic comes from what the older notes call a powerful, previously dormant strand in his ancestry, the same rare case as [[Dherlin]] (see [[Bloodline magic]]).
 
 ## Role in the story
 
@@ -112,9 +112,9 @@ Eric and Lucas both carry [[Xi]] blood, which is why both can bond with [[xirami
 > - **Eric killed his mother** with uncontrolled magic, and that is why he was put in prison. He learns this in Book 3 through nightmarish flashbacks, and it deepens his depression; when the flashback comes he wants nothing to do with anyone.
 > - **End of Book 2:** in the attack on the island prison Eric is captured. He is thrown in a dark cell, becomes deeply depressed, and starts having flashbacks of his life before the dungeon.
 > - **Book 3:** [[Crisig]] finds and frees him and leads him to [[Brian]], [[Kolt]] and [[Henri]]; the five escape. Eric uses magic to visit Jane in a dream and tell her they are in [[Sprake]], [[Dyken]], and she brings a small group to get them. Jane finds him overlooking the ocean, comforts him, and they share a kiss — the start of their romance.
-> - In the battle of Carterville, [[Zandar]] tries to kill Eric; [[David]] sacrifices himself to save him and [[Elliott]] kills Zandar. Eric uses magic to proclaim a loud stop to the fighting.
+> - In the battle of Carthollow, [[Zandar]] tries to kill Eric; [[David]] sacrifices himself to save him and [[Elliott]] kills Zandar. Eric uses magic to proclaim a loud stop to the fighting.
 > - Afterwards Eric and Jane dream of Dherlin; Eric's dream carries a threat that Dherlin will kill him, and he wakes to see [[King Carter]] standing over him with a dagger. Eric disarms Carter with magic, senses the evil presence in him, and uses a magic he has never heard of to destroy Dherlin's presence. He then sets out for [[Averill]] with Jane, Lucas, Scott, Jaek, Crisig, Crewt, Rykor and Liko to hunt Dherlin.
-> - Eric and Jane marry after the battle of Carterville and before leaving for Averill. When Jane can no longer travel, she stays at [[Lucal]] while Eric goes on to defeat Dherlin. Their son, born as they leave Lucal, is named Scott after Jane's brother. After a few years in Lucal they return to Carterville to live out their lives.
+> - Eric and Jane marry after the battle of Carthollow and before leaving for Averill. When Jane can no longer travel, she stays at [[Lucal]] while Eric goes on to defeat Dherlin. Their son, born as they leave Lucal, is named Scott after Jane's brother. After a few years in Lucal they return to Carthollow to live out their lives.
 > - **Newest notes (2026):** in the dungeon Eric watches [[David]] get beaten to death in a cafeteria skirmish (David "dies in chapter 1"), and [[Bardon]], who was captured intentionally, teams up with [[Rykor]] to break Eric and [[Akio Stormshark|Akio]] out. This replaces the older version in which Brian frees Eric and David together.
 
 ## Sources

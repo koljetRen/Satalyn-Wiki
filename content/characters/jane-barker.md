@@ -28,7 +28,7 @@ Jane's family lived in a village that was trying to build its own kingdom after 
 
 ## Role in the story
 
-- **Book 1:** [[Scott Barker|Scott]] brings Eric and [[David]] to Joseph and Jane in [[Harrisonville]], and the five stay together for a few nights. When the army from Carterville comes for them, they flee. In the [[Aramore Forest]], Eric and Jane both dream about [[Dherlin]]. Jane and Eric build an important friendship in the mountains near the resistance base. After the battle at [[Misty Phlats]], when Eric lies in a death-like state, Jane dreams of him overlooking the valley, comforts him and asks him to come back to the land of the living; she wakes to find him still lifeless, but he wakes later that day.
+- **Book 1:** [[Scott Barker|Scott]] brings Eric and [[David]] to Joseph and Jane in [[Harrisonville]], and the five stay together for a few nights. When the army from Carthollow comes for them, they flee. In the [[Aramore Forest]], Eric and Jane both dream about [[Dherlin]]. Jane and Eric build an important friendship in the mountains near the resistance base. After the battle at [[Misty Phlats]], when Eric lies in a death-like state, Jane dreams of him overlooking the valley, comforts him and asks him to come back to the land of the living; she wakes to find him still lifeless, but he wakes later that day.
 - **Book 2:** at the large battle at the fort, Eric and Jane use their magic together to hide a few resistance members.
 - **Book 3:** Jane tries to lead the [[Xi]] forces, but they won't follow her, so [[Lucas]] becomes her voice in leading the Xi and resistance army. When Scott learns that what Lucas is doing to lead the Xi is really coming from Jane, his view of her changes.
 
@@ -48,8 +48,8 @@ Jane's family lived in a village that was trying to build its own kingdom after 
 > - **Who ordered the raid:** King Carter did not order the ransacking of Jane's village. It was the decision of the leader in charge of that small force.
 > - **Romance:** when Eric is captured at the end of Book 2, Jane realises she has deeper feelings for him. After they reunite she doesn't want to be separated again. When Eric, after the flashback of killing his mother, wants nothing to do with anyone, Jane finds him overlooking the ocean and comforts him; he tells her everything, and she gives him a hug and a kiss. This begins their romance (Book 3 step 13: "a special moment (little kiss)").
 > - In Book 3, Eric visits Jane in a dream to tell her he is in [[Sprake]], [[Dyken]], and she leads a small group to get him.
-> - After the battle of Carterville and before they leave for [[Averill]], Jane and Eric marry. During the hunt for Dherlin she becomes pregnant without knowing it, until Dherlin mentions it and tries to curse the child. Scott takes the curse instead and dies of it.
-> - When her pregnancy keeps her from the final quest, at Eric's request and the council of others she stays at [[Lucal]]. Eric returns after defeating Dherlin; as they leave Lucal she goes into labour, and they name their son Scott after her brother. After a few years in Lucal they return to Carterville for the rest of their lives.
+> - After the battle of Carthollow and before they leave for [[Averill]], Jane and Eric marry. During the hunt for Dherlin she becomes pregnant without knowing it, until Dherlin mentions it and tries to curse the child. Scott takes the curse instead and dies of it.
+> - When her pregnancy keeps her from the final quest, at Eric's request and the council of others she stays at [[Lucal]]. Eric returns after defeating Dherlin; as they leave Lucal she goes into labour, and they name their son Scott after her brother. After a few years in Lucal they return to Carthollow for the rest of their lives.
 > - She is in the group that sets out for Averill: Eric, Jane, Lucas, Scott, Jaek, Crisig, Crewt, Rykor and Liko.
 
 ## Sources

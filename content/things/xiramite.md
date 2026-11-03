@@ -14,7 +14,7 @@ sources:
 | | |
 | --- | --- |
 | Type | Material (forged metal) |
-| Associated people | [[Xi]] |
+| Associated people | [[Xi people\|Xi]] |
 | Colour | Black when forged; once cracked, crimson red flows through the cracks |
 | Who can wield it | Only those with Xi blood |
 | Notable pieces | [[Eric's Sword]], [[Lucas's Dagger]] |

@@ -25,7 +25,7 @@ sources:
 > The cast list gives "[Rewis]" as a more medieval replacement name (sources/drive/runaways/runaways-character-info-personal.md); the character-development notes write "Elliott (Tahir)" (sources/drive/runaways/runaways-ideas.md). Both are kept as aliases.
 
 > [!warning]- Secrets (author only)
-> - In the battle of Carterville, Elliott kills [[Zandar]] in defence of Eric. The character notes say Zandar is killed "by Tahir", which matches Elliott's alternate name.
+> - In the battle of Carthollow, Elliott kills [[Zandar]] in defence of Eric. The character notes say Zandar is killed "by Tahir", which matches Elliott's alternate name.
 
 ## Sources
 

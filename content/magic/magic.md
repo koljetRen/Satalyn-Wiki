@@ -77,7 +77,7 @@ In *[[The Runaways]]*, [[Eric]] and [[Jane Barker]] are both wizards as well as 
 > Feats of magic in the *Runaways* plots (`sources/drive/runaways/runaways-ideas.md`):
 > - **Book 1:** Eric and Jane dream about Dherlin while sleeping in the Aramore Forest. At [[Battle of Misty Phlats|Misty Phlats]], Eric "goes full avatar state mode and fireballs the whole valley", putting himself into a death-like state; Jane later dreams of Eric overlooking the valley and asks him to come back to the land of the living, and he wakes.
 > - **Book 2:** Eric and Jane use their magic together to hide eight resistance members at the [[Battle of the Fort|fort]]. Eric uses magic to send a message to a ship on the horizon.
-> - **Book 3:** Eric uses magic to visit Jane in a dream and tell her where he is (Sprake, Dyken). He uses magic to proclaim a loud "stop fighting" at Carterville, to disarm Carter, to sense the evil presence in him, and then "a magic he's never heard of before" to destroy Dherlin's presence.
+> - **Book 3:** Eric uses magic to visit Jane in a dream and tell her where he is (Sprake, Dyken). He uses magic to proclaim a loud "stop fighting" at Carthollow, to disarm Carter, to sense the evil presence in him, and then "a magic he's never heard of before" to destroy Dherlin's presence.
 > - Dherlin cast a spell on King Carter so he could possess him whenever he wanted (plot-twist idea). Later Dherlin tries to curse Jane's unborn child; the curse (to die quickly) hits Scott instead.
 > - Eric killed his mother through uncontrolled magic, which is why he was put in prison.
 

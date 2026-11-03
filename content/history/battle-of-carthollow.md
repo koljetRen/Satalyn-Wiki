@@ -15,7 +15,7 @@ The **Battle of Carthollow** is the massive battle at [[Carthollow]], King Carte
 | Date | 1069/1070 (*The Runaways* Book 3) |
 | Place | [[Carthollow]] (called Carterville in older notes) |
 | Sides | The resistance and Xi forces against [[King Carter's Forces]] |
-| Leaders | [[Eric]], [[Jane Barker|Jane]] and [[Lucas]]; [[Xander]], [[Elliott]]; [[King Carter]]; [[King Augo]] |
+| Leaders | [[Eric]], [[Jane Barker|Jane]] and [[Lucas]]; [[Zandar]], [[Elliott]]; [[King Carter]]; [[King Augo]] |
 | Result | See the secrets |
 
 > [!info] Canon note
@@ -23,7 +23,7 @@ The **Battle of Carthollow** is the massive battle at [[Carthollow]], King Carte
 
 ## Background
 
-In Book 3 the resistance, now training to fight like the Xi, decided on a plan to attack Carterville. First it freed the remaining resistance prisoners from [[The Island Prison|the island prison]] (see [[Raids on the Island Prison]]), then it marched at full speed for the city.
+In Book 3 the resistance, now training to fight like the Xi, decided on a plan to attack Carthollow. First it freed the remaining resistance prisoners from [[The Island Prison|the island prison]] (see [[Raids on the Island Prison]]), then it marched at full speed for the city.
 
 ## What happened
 
@@ -36,14 +36,14 @@ As the army approached, a messenger was sent out of the city to meet it. The res
 > [!warning]- Secrets (author only)
 > From the Book 3 plot (`sources/drive/runaways/runaways-ideas.md`):
 > - The messenger is David, who had become a servant to Carter in return for giving him information about the resistance.
-> - Xander, seeing the battle partly in his favour, decides to take power, and sees Eric in his path first. He moves to kill Eric, but David sacrifices himself to save Eric, and Elliott kills Xander in Eric's defence.
+> - Zandar, seeing the battle partly in his favour, decides to take power, and sees Eric in his path first. He moves to kill Eric, but David sacrifices himself to save Eric, and Elliott kills Zander in Eric's defence.
 > - Eric uses magic to proclaim a loud "stop fighting". He meets Augo, Carter and all the leaders in the middle to discuss what just happened. Augo tries to stab Carter, but Lucas cuts his hand off first.
 > - The battle ends: Carter remains king, Augo is thrown in prison, and the resistance is disbanded, all its members free to do what they want.
 > - That night Eric and Jane both dream of Dherlin; in Eric's dream Dherlin threatens to kill him. Eric wakes to find Carter standing over him with a dagger, disarms him with magic, senses the evil presence in him, and uses a magic he has never heard of to destroy Dherlin's presence. With their friends they decide to go and end the threat, starting at [[Averill]].
 > - After the battle but before leaving for Averill, Eric and Jane marry.
 >
 > > [!info] Canon note
-> > - Who kills Xander: Elliott in the Book 3 plot; "Tahir" in the character notes (`runaways-ideas.md`, which gives Tahir as Elliott's other name; the cast list gives Rewis).
+> > - Who kills Zandar: Elliott in the Book 3 plot; "Tahir" in the character notes (`runaways-ideas.md`, which gives Tahir as Elliott's other name; the cast list gives Rewis).
 > > - David: the April 2026 sheet has him die in chapter 1 of Book 1, so his betrayal and sacrifice here may no longer apply.
 
 ## Sources

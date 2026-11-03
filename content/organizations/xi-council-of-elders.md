@@ -8,7 +8,7 @@ sources:
   - sources/drive/organized-runaways-notes.md
   - sources/drive/runaways/runaways-character-info-personal.md
 ---
-The **Xi council of elders** is the council of 17 elderly men that leads the [[Xi]] people.
+The **Xi council of elders** is the council of 17 elderly men that leads the [[Xi people|Xi]] people.
 
 ## Purpose
 

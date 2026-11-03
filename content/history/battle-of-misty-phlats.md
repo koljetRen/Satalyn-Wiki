@@ -17,7 +17,7 @@ The **Battle of Misty Phlats** was the attack by [[King Carter's Forces|King Car
 | Date | 1067 (*The Runaways* Book 1) |
 | Place | [[Misty Phlats]] and the valley around the resistance base, [[Southern Misty Mountains]] |
 | Sides | [[The Resistance]] against [[King Carter's Forces|King Carter's army]] |
-| Commanders | Resistance: [[Xander]], [[Elliott]], [[Samheir]] |
+| Commanders | Resistance: [[Zandar]], [[Elliott]], [[Samheir]] |
 | Result | The resistance escapes through the back passes and regroups at [[Mourncliff]] |
 
 ## Background
@@ -29,7 +29,7 @@ The resistance's base lay in the Southern Misty Mountains near Misty Phlats. Ret
 The resistance drew up a plan to escape the area and make for [[Keyesport Vale]]:
 
 1. [[Samheir]] takes the frontal charge;
-2. [[Xander]] and [[Elliott]] come in from the side to distract the main army;
+2. [[Zandar]] and [[Elliott]] come in from the side to distract the main army;
 3. meanwhile the rest of the resistance escapes through the back passes.
 
 The battle started, and the resistance broke away. The details of the fighting are in the secrets below.

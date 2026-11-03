@@ -9,12 +9,12 @@ sources:
   - sources/drive/runaways/the-runaways-sites-personal.md
 ---
 
-**Aramore** is a region and kingdom of Satalyn with a dry prairie climate, the homeland of the [[peoples/cultures/aramore|Aramorean]] people and of [[Eric]], the protagonist of *[[The Runaways]]*.
+**Aramore** is a region and kingdom of Satalyn with a dry prairie climate, the homeland of the [[peoples/cultures/aramore-people|Aramorean]] people and of [[Eric]], the protagonist of *[[The Runaways]]*.
 
 | | |
 | --- | --- |
 | Type | Region; kingdom |
-| Culture | [[peoples/cultures/aramore\|Aramorean]] |
+| Culture | [[peoples/cultures/aramore-people\|Aramorean]] |
 | Ruler / leader | A king; each city is run by a court of nobles |
 | Climate | Prairie, dry but not desert dry |
 | Real-world inspiration | The culture is based on medieval Europe and the Scythians |
@@ -31,7 +31,7 @@ Aramore is prairie country, dry but not as dry as a desert. [[Colored Corn]], co
 - **Religion:** an ancient faith in elemental spirits led by the [[Skyfather]], which almost no one follows any more. People once held festivals when the auroras appeared, but the auroras haven't been seen since the [[Desolation of the ground water|desolation of the ground water]] by the evil wizard.
 - **Names:** Aramorean names draw on Breton, English, French, Frisian, German, Hungarian, Lithuanian, Polish, Romanian, Scottish, Celtic (mythology and ancient), Anglo-Saxon and Arthurian names.
 
-See [[peoples/cultures/aramore|Aramorean culture]] for the full culture.
+See [[peoples/cultures/aramore-people|Aramorean culture]] for the full culture.
 
 ## Settlements
 
@@ -43,7 +43,7 @@ During the [[Xi Empire]], a Xi soldier broke the Xi rule against mixing with for
 
 ## In the stories
 
-Eric and several of the people he meets in the [[Carthollow Dungeon]] ([[Rannulfr]], [[Bardon]], [[Ulrich]] and [[The Torturer|the Torturer]]) are Aramorean.
+Eric and several of the people he meets in the [[Carthollow Dungeon]] ([[Rannulfer]], [[Bardon]], [[Ulrich]] and [[The Torturer|the Torturer]]) are Aramorean.
 
 ## Open questions
 

@@ -10,7 +10,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Xi]] |
+| Culture / race | [[Xi people\|Xi]] |
 | Height | 6'1" |
 | Appears in | [[The Runaways]] |
 | Affiliation | [[Xi warriors]] |

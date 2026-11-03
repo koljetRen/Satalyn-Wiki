@@ -34,7 +34,7 @@ The prison has 10 cells. The background-character notes also mention a cafeteria
 | [[Namacuix]] | 3 | 86 | Rude |
 | [[Bardon]] | 4 | 52 | Proud |
 | [[Ivar]] | 3 | 85 | Crazy |
-| [[Rannulfr]] | 2 | 25 | Naughty |
+| [[Rannulfer]] | 2 | 25 | Naughty |
 | [[Vali]] | 2 | 79 | Bad-tempered |
 | [[Anghus]] | 1 | 50 | Worried |
 | [[Vlastimir]] | 7 | 64 | Self-disciplined |
@@ -43,7 +43,7 @@ The prison has 10 cells. The background-character notes also mention a cafeteria
 | [[Samanya]] | 1 | 66 | Thoughtful |
 | [[Stigr]] | 5 | 89 | Messy |
 
-Eric's cellmate (his "roommate" in the plot notes) is David. Rannulfr is the "dungeon jester", who appears only in the dungeon.
+Eric's cellmate (his "roommate" in the plot notes) is David. Rannulfer is the "dungeon jester", who appears only in the dungeon.
 
 ### Guards and staff
 
@@ -69,7 +69,7 @@ Eric wakes in the dungeon with no memory. He meets David, Rann, Bardon, Ulrich, 
 
 > [!warning]- Secrets (author only)
 > - **David's fate:** the 2026 sheet has Eric watch David get beaten to death in a cafeteria skirmish in chapter 1 (sources/drive/organized-runaways-notes.md). The older plot has David escape with Eric and live into Book 3 (sources/drive/runaways/runaways-ideas.md).
-> - **The escape:** in the 2026 sheet, [[Bardon]] is a resistance member who was captured on purpose and teams up with [[Rykor]] to break Eric and Aiko out. In the older plot, [[Brian]] sets Eric and David free after a few weeks and tells them to run to [[Harrisonville]], giving them a little money. Bardon's background entry says he is a former soldier charged with treason who joins the resistance in Book 2.
+> - **The escape:** in the 2026 sheet, [[Bardon]] is a resistance member who was captured on purpose and teams up with [[Rykor]] to break Eric and Akio out. In the older plot, [[Brian]] sets Eric and David free after a few weeks and tells them to run to [[Harrisonville]], giving them a little money. Bardon's background entry says he is a former soldier charged with treason who joins the resistance in Book 2.
 > - The King's Trial is what exposes Brian to Eric.
 > - Guard [[Frode]] is paid by Brian to let prisoners out; guard [[Gunter]] is a double agent working with Brian to free prisoners.
 
