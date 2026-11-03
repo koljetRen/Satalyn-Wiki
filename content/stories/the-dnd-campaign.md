@@ -14,7 +14,7 @@ sources:
 | | |
 | --- | --- |
 | Setting | [[Satalyn]] |
-| Status | Played; only two lines of session notes survive (doc dated 2025-12-12) |
+| Status | Two lines of session notes (doc last changed 2025-12-12) |
 
 ## Notes from the sessions
 
@@ -23,7 +23,7 @@ The author's doc "Notes from DND about my world" holds two lines:
 - "Magic is banned from Aerelm because the KIng is worried about power"
 - "Brotz is a resistance member in the town, who guides them to the resistance base"
 
-So in the campaign, [[Aerelm]] has a magic ban (see [[Magic bans]]), and the players meet [[Brotz]], a member of the [[The Resistance|resistance]], in a town, and he guides them to the [[Resistance Base|resistance base]].
+So in the campaign, magic is banned from [[Aerelm]] because "the King is worried about power" (see [[Magic bans]]), and [[Brotz]], a member of the [[The Resistance|resistance]] in an unnamed town, guides "them" (presumably the players' party) to the [[Resistance Base|resistance base]].
 
 > [!info] Canon note
 > In the Runaways notes **Aerelm** is a person: a resistance wizard on the [[Council of Worldly Wizards|council of worldly wizards]] (cast list, 2024; also spelled Aerlem in a draft passage). The D&D line reads as if Aerelm is a place with a king. The two are kept apart here until the author decides.
