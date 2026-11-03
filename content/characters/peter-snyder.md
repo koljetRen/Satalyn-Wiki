@@ -14,7 +14,7 @@ sources:
 
 | | |
 | --- | --- |
-| Born / died | Turns 16 shortly after the start of his story |
+| Age | 15 when his story begins |
 | Family | Son of [[King William Snyder VII]]; younger brother of [[William Snyder VIII]] |
 | Homeland | The kingdom of [[Snyder]] (the plot outline calls its throne the throne of [[Forin]]) |
 | Appears in | [[The Slave Book]]; [[The Joining of the Series]] |
@@ -36,7 +36,7 @@ Fifty-one days before Peter's 16th birthday, both his parents and his elder brot
 
 ## Role in the story
 
-*[[The Slave Book]]* opens with Peter as a slave in a caravan crossing the [[Great Desert]], and tells how the boy king came to be there in flashbacks. After escaping the caravan he joins the slave hunters. Years later he meets [[Eric]] and his companions, and the slave hunters join them.
+*[[The Slave Book]]* opens with Peter as a slave in a caravan crossing the [[Great Desert]], and tells how the boy king came to be there in flashbacks. After escaping the caravan he joins the slave hunters. Later he meets [[Eric]] and his companions, and the slave hunters join them.
 
 ## Relationships
 
