@@ -13,7 +13,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Skarg|Skargan]] |
+| Culture / race | [[Skarg\|Skargan]] |
 | Height | 5'9" |
 | Appears in | [[The Runaways]] |
 | Rank / role | Prisoner; runaway with Eric |

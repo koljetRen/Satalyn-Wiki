@@ -11,7 +11,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Aramore|Aramorean]] |
+| Culture / race | [[Aramore\|Aramorean]] |
 | Appears in | [[The Runaways]] Book 1 (dungeon only) |
 | Rank / role | Prisoner |
 

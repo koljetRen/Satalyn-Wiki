@@ -11,7 +11,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | [[Osisu|Osisuan]] |
+| Culture / race | [[Osisu\|Osisuan]] |
 | Appears in | [[The Runaways]] |
 | Affiliation | [[The Resistance]] (from Book 2, per the older notes) |
 | Rank / role | Mercenary; prisoner |

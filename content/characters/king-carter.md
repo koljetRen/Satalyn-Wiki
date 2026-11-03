@@ -12,7 +12,7 @@ sources:
 
 | | |
 | --- | --- |
-| Culture / race | Not stated (his city, Carthollow, is [[Aramore|Aramorean]]) |
+| Culture / race | Not stated (his city, Carthollow, is [[Aramore\|Aramorean]]) |
 | Height | 5'11" |
 | Appears in | [[The Runaways]] (Books 1–3) |
 | Affiliation | [[King Carter's forces]] |
