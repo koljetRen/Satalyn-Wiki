@@ -21,12 +21,8 @@ No one has ever confirmed seeing one, but no one can disprove them either. They 
 
 Each race tends to picture the gods in its own image, while the creatures and shared symbols are common to every culture. The [[Owl-antlered folk]] are seen as very close to the gods, since their owl and antler features echo the creatures.
 
-## Ideas and open threads
-
-- To mortals the creatures may be a faint memory of the gods' true shape.
-
 > [!warning]- Secrets (author only)
-> The creatures don't live on the world: they are the gods' true forms in the realm of the multiverse the gods come from. Mortals know none of this. Sightings happen on the rare occasions a god is called back to the world, so a sighting is really a god passing through. (The owl-antlered folk really are somewhat closer to the gods; how much is still open.)
+> The creatures don't live on the world: they are the gods' true forms in the realm of the multiverse the gods come from. Mortals know none of this: to them the creatures are only rumoured sacred beasts, perhaps a faint memory of the gods' true shape. Sightings happen on the rare occasions a god is called back to the world, so a sighting is really a god passing through. (The owl-antlered folk really are somewhat closer to the gods; how much is still open.)
 
 ## Sources
 

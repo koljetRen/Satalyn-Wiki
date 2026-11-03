@@ -8,7 +8,7 @@ To start a package: open a new cloud session on this repository and paste the pa
 
 | # | Package | Folders it owns | Main sources | Status |
 | --- | --- | --- | --- | --- |
-| 1 | Cosmos, gods and religion | `cosmology/`, `gods/`, `religion/` | `claude-doc/world-creation-notes.md`, religion parts of `runaways-ideas.md` and `organized-runaways-notes.md` | [ ] |
+| 1 | Cosmos, gods and religion | `cosmology/`, `gods/`, `religion/` | `claude-doc/world-creation-notes.md`, religion parts of `runaways-ideas.md` and `organized-runaways-notes.md` | [x] |
 | 2 | Magic, history and things | `magic/`, `history/`, `things/` | `claude-doc/world-creation-notes.md`, `runaways-ideas.md`, `runaways-character-info-personal.md` | [ ] |
 | 3 | Peoples and nature | `peoples/`, `nature/` | `organized-runaways-notes.md`, `claude-doc/world-creation-notes.md` | [ ] |
 | 4 | Places | `places/` | all sources (places are scattered everywhere) | [ ] |
