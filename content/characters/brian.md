@@ -34,8 +34,7 @@ In the dungeon he works with the guards [[Gunter]], a double agent, to free pris
 
 ## Relationships
 
-- **[[Eric]]** — see Secrets.
-- His father took him from his mother shortly after his birth; his mother's ancestors were [[Xi]] (see Secrets).
+- **[[Eric]]** — the prisoner he frees (see also Secrets).
 
 > [!warning]- Secrets (author only)
 > - **Brian is Eric's father**, though neither of them knows it until Book 3, when Eric finds out.

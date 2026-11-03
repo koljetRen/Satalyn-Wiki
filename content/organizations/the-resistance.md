@@ -60,7 +60,7 @@ The resistance has four levels of command (2021 leadership doc). Each level belo
 
 ## History
 
-- **Book 1:** recruits are trained as soldiers at the base; the resistance scouts and buys weapons at [[Shadow's Edge]]. When King Carter's army marches on Misty Phlats sooner than expected, the resistance plans an escape toward Keyesport Vale: [[Samheir]] leads a frontal charge, [[Zandar]] and [[Elliott]] strike from the side to distract the main army, and the rest escape through the back passes. The groups regroup one by one at Mourncliff, then travel to [[Moonwick]] and take ships to Keyesport Vale.
+- **Book 1:** recruits are trained as soldiers at the base; the resistance scouts and buys weapons at [[Shadow's Edge]]. When King Carter's army marches on Misty Phlats sooner than expected, the resistance plans an escape toward Keyesport Vale: [[Samheir]] leads a frontal charge, [[Zandar]] and [[Elliott]] strike from the side to distract the main army, and the rest escape through the back passes. Eric's fireball over the valley kills many resistance men as well as enemies, and some members are upset by it. The groups regroup one by one at Mourncliff, then travel to [[Moonwick]] and take ships to Keyesport Vale.
 - **Book 2:** King Carter's armies attack Keyesport Vale and capture the island; only a few members are hidden by Eric and Jane's magic. The survivors find sanctuary on [[Xi]], learn to fight like the Xi, recover the weapons from the old base, and attack the [[island prison]] where captured resistance members are held.
 - **Book 3:** the resistance, joined with Xi forces, frees the rest of its prisoners and marches on Carterville.
 
@@ -72,7 +72,6 @@ The resistance has four levels of command (2021 leadership doc). Each level belo
 > - **The resistance began as a lie.** In the Fillyolia twist, [[King Augo]], greedy for the power Carter was gaining, started rumours of a resistance against him. [[Zandar]], "a nobody dreaming of power", offered to lead it and make it real, in return for becoming Augo's second-hand man, meaning to kill Augo once the throne was won. Together they spread the story that Carter had stolen the throne from Augo. "No good guys in this war"; "Resistance is part bad guys".
 > - **Fates in the 2021 leadership doc:** Sam (dead), Brian (captured), Joseph Barker (captured). Joseph later dies in prison.
 > - [[David]] secretly reports the location of the resistance base to the King (older plot).
-> - At Misty Phlats, Eric's fireball kills many resistance men as well as enemies.
 > - At the fort in Book 2, all members except Eric, Jane, Lucas, Bella, Jaek, Kaz, Crisig and Crewt are killed or captured. Suew, Nad and Scott are among the prisoners freed from the island prison; Eric is captured in that attack.
 > - **End:** in the battle of Carterville Zandar tries to seize power and is killed by Elliott. After the battle the resistance is disbanded and all members are free to do what they want; Carter remains king and Augo is imprisoned.
 

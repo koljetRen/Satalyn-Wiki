@@ -38,7 +38,7 @@ After the [[Fall of Fillyolia|fall of Fillyolia]], Carter sent his forces to reu
 
 ## Open questions
 
-- How are Carter and [[King Augo]] related? See Secrets; the twist notes say brothers, the wiki plan says "brother/cousin".
+- How exactly are Carter and [[King Augo]] related? (See Secrets.)
 
 > [!warning]- Secrets (author only)
 > - **Possession:** Carter's mood swings come from possession by [[Dherlin]]. After Carter humbly rebuilt Fillyolia, Dherlin learned of it and cast a spell on him to possess him whenever he wanted. When the possession takes over, Carter is power-hungry and rude; when it is just Carter, he is his normal, humble self. Dherlin doesn't want to do what is right, and Carter often doesn't remember what he did while possessed.
