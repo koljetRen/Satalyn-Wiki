@@ -39,7 +39,7 @@ See [[peoples/cultures/aramore-people|Aramorean culture]] for the full culture.
 
 ## History
 
-During the [[Xi Empire]], a Xi soldier broke the Xi rule against mixing with foreigners and had a child with an Aramorian woman. [[Eric]] and [[Lucas]] descend from that line.
+During the [[Xi Empire]], a Xi soldier broke the Xi rule against mixing with foreigners and had a child with an Aramorian woman (see [[The Xi Empire]]).
 
 ## In the stories
 
@@ -49,6 +49,9 @@ Eric and several of the people he meets in the [[Carthollow Dungeon]] ([[Rannulf
 
 - Is the kingdom of Aramore the same realm King Carter rules, and how does it relate to [[Fillyolia]]?
 - Which other settlements (for example [[Harrisonville]]) lie in Aramore?
+
+> [!warning]- Secrets (author only)
+> - [[Eric]] and [[Lucas]] descend from the Xi soldier's Aramorian line (sources/drive/runaways/runaways-ideas.md).
 
 ## Sources
 

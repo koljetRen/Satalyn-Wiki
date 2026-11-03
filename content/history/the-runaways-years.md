@@ -36,7 +36,7 @@ sources:
 - **[[Battle of Misty Phlats]]**: King Carter's army attacks; the resistance escapes, regroups at [[Mourncliff]], and sails from [[Moonwick]] to [[Keyesport Vale]], where ships appear on the horizon.
 
 > [!info] Canon note
-> How Eric gets out of prison differs between notes. The older Book 1 plot (`sources/drive/runaways/runaways-ideas.md`) has Brian free Eric and David after a few weeks and send them to Harrisonville. The April 2026 sheet (`sources/drive/organized-runaways-notes.md`) has [[Bardon]], a resistance member captured on purpose, team up with [[Rykor]] to break out Eric and [[Akio Stormshark|Aiko]] (Akio). Both sheets agree Carthollow (Carterville in older notes) is King Carter's city.
+> How Eric gets out of prison differs between notes. The older Book 1 plot (`sources/drive/runaways/runaways-ideas.md`) has Brian free Eric and David after a few weeks and send them to Harrisonville. The April 2026 sheet (`sources/drive/organized-runaways-notes.md`) has [[Bardon]] team up with [[Rykor]] to break out Eric and [[Akio Stormshark|Akio]] (spelled "Aiko" there). Both sheets agree Carthollow (Carterville in older notes) is King Carter's city.
 
 ## 1067–1069: Book 2
 
@@ -65,6 +65,7 @@ sources:
 - The slave book starts in 1071, and its hero meets Eric after two or three years of slave hunting — i.e. around 1073–1074, matching the 1074 join?
 
 > [!warning]- Secrets (author only)
+> - In the 2026 sheet, Bardon is a resistance member who was captured on purpose.
 > Plot twists and later events, from `sources/drive/runaways/runaways-ideas.md` unless noted:
 > - **Book 1:** David sends a report to the king about the resistance base from Shadow's Edge. At Misty Phlats Eric fireballs the whole valley, killing many resistance men too, and lies in a death-like state until Jane reaches him in a dream.
 > - **Book 2:** Eric sees David among the enemy at the fort. In the first island raid Eric is captured, falls into depression and starts having flashbacks.
