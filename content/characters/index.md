@@ -4,13 +4,6 @@ title: Characters
 
 Everyone with a name, from the heroes of [[The Runaways]] to the guards of the Carthollow dungeon.
 
-## Minor characters
-
-**Prisoners of the [[Carthollow Dungeon]]:** [[Peng]], [[Namacuix]], [[Ivar]], [[Vali]], [[Anghus]], [[Vlastimir]], [[Godfrey]], [[Samanya]], [[Stigr]]
-
-**Guards of the Carthollow Dungeon:** [[Skari]], [[Cadman]], [[Frode]], [[Pedro]], [[Gunter]], [[Kayne]], [[Ormr]]
-
-**From *[[The Slave Book]]*:** [[Peter Snyder]], [[King William Snyder VII]], [[William Snyder VIII]], [[The Head Helper]], [[Jason]]
 ## Main cast of *The Runaways*
 
 - [[Eric]] — protagonist; warrior and wizard
@@ -50,3 +43,11 @@ Everyone with a name, from the heroes of [[The Runaways]] to the guards of the C
 
 - [[Willy Smith]] and [[Cassandra Smith]]
 - [[Damon Frazier]], [[Marta Frazier]], [[James]] (cut in the Book 1 rewrite)
+
+## Minor characters
+
+**Prisoners of the [[Carthollow Dungeon]]:** [[Peng]], [[Namacuix]], [[Ivar]], [[Vali]], [[Anghus]], [[Vlastimir]], [[Godfrey]], [[Samanya]], [[Stigr]]
+
+**Guards of the Carthollow Dungeon:** [[Skari]], [[Cadman]], [[Frode]], [[Pedro]], [[Gunter]], [[Kayne]], [[Ormr]]
+
+**From *[[The Slave Book]]*:** [[Peter Snyder]], [[King William Snyder VII]], [[William Snyder VIII]], [[The Head Helper]], [[Jason]]
