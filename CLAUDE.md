@@ -67,14 +67,16 @@ Known conflicts (already spotted — handle as above):
 
 ## Secrets (author-only material)
 
-Some notes describe things mortals in the world don't know (e.g. the sacred creatures are really the gods' true forms) or book plot twists. **Until the author decides otherwise**, write them on the normal page inside a folded callout at the end, just above `## Sources`:
+**Audience:** right now only the author reads the site. **Later it will be opened to everyone** (players and readers). So write every page to be safe for the public, with one exception: secrets.
+
+Secrets are things people in the world don't know (e.g. the sacred creatures are really the gods' true forms), book plot twists and spoilers, and DM-only information. Write them on the normal page inside a folded callout at the end, just above `## Sources`:
 
 ```markdown
 > [!warning]- Secrets (author only)
 > The sacred creatures don't live on the world: they are the gods' true forms...
 ```
 
-Always use exactly that callout header, so the secrets can later be moved to `content/private/` mechanically if the site becomes player-facing.
+**Always use exactly that callout header, and never put a secret anywhere else on a page** (not in the lead, tables, captions or other pages' summaries). Before the site goes public, a session will move every one of these callouts into `content/private/` mechanically, so a secret outside the callout would leak. A page that is entirely secret goes straight into `content/private/` (same subfolder layout as `content/`).
 
 ## Working in parallel
 

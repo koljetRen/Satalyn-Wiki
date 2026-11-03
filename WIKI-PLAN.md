@@ -23,6 +23,12 @@ To start a package: open a new cloud session on this repository and paste the pa
 | 8 | Timeline and overview pages | A full timeline page from creation to 1074; a "World at a glance" page; a "Who's who in *The Runaways*" page; a pantheon table | [ ] |
 | 9 | Site and deploy | Build the site, fix any build errors, pick colors/fonts, set the real `baseUrl`, add the hosting setup (Cloudflare Pages or GitHub Pages), add map images if the author has uploaded them | [ ] |
 
+## Before going public (later)
+
+| # | Package | What it does | Status |
+| --- | --- | --- | --- |
+| 10 | Public launch | Move every `> [!warning]- Secrets (author only)` callout into a matching page under `content/private/`; check no secret remains elsewhere (search for plot-twist names and phrases from the private pages); keep the repo private; give the author a password-protected or local way to still read the secrets | [ ] |
+
 ## Prompts
 
 ### Package 1 — Cosmos, gods and religion
