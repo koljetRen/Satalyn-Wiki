@@ -20,7 +20,7 @@ To start a package: open a new cloud session on this repository and paste the pa
 | # | Package | What it does | Status |
 | --- | --- | --- | --- |
 | 7 | Links and consistency | Find every `[[link]]` with no page and either write a stub or fix the link; make names and aliases consistent across packages; merge duplicate pages; fill in section `index.md` pages with lists of their pages; tidy `content/private/open-questions.md` | [ ] |
-| 8 | Timeline and overview pages | A full timeline page from creation to 1074; a "World at a glance" page; a "Who's who in *The Runaways*" page; a pantheon table | [ ] |
+| 8 | Timeline and overview pages | A full timeline page from creation to 1074; a "World at a glance" page; a "Who's who in *The Runaways*" page; a pantheon table | [x] |
 | 9 | Site and deploy | Build the site, fix any build errors, pick colors/fonts, set the real `baseUrl`, add the hosting setup (Cloudflare Pages or GitHub Pages), add map images if the author has uploaded them | [ ] |
 
 ## Before going public (later)

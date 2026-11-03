@@ -24,3 +24,7 @@ From the golden age of creation through the ice age, the Xi Empire, the fall of 
 - [[Battle of the Fort]] — Book 2 opens with the resistance's defeat
 - [[Raids on the Island Prison]] — two raids to free captured resistance members
 - [[Battle of Carthollow]] — the final battle of Book 3
+
+## Overview
+
+- [[Timeline of Satalyn]] — the full timeline, from the seven phases of creation to 1074

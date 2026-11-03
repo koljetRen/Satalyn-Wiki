@@ -48,6 +48,8 @@ Questions and conflicts found while building the wiki, for the author to decide.
 - **Book 3 dates:** "1069/1070" — and where do the post-Book 3 events (Averill quest, Lucal, Scott's death, the baby) fall before the 1074 join? — sources/drive/runaways/runaways-character-info-personal.md, sources/drive/runaways/runaways-ideas.md
 - **Eric's escape:** Brian frees Eric and David (older Book 1 plot) vs Bardon and Rykor break out Eric and Aiko (2026 sheet). Timeline page shows both. — sources/drive/runaways/runaways-ideas.md vs sources/drive/organized-runaways-notes.md
 - **Name overlap:** Package 3 is also asked to write "the ice age people" (as a race); this package wrote history/the-ice-age-people.md. Package 7 should merge them. — WIKI-PLAN.md
+- **Timeline gaps (Package 8):** how long did the phases of creation and the golden age last in years? When did the resistance form, and when did King Carter begin reuniting the villages, relative to 1045? — sources/claude-doc/world-creation-notes.md, sources/drive/runaways/runaways-ideas.md
+- **Slave hunters meet the Runaways (Package 8):** the slave book starts in 1071 and Peter meets the Runaways group "after 2 or 3 years of slave hunting" (about 1073–1074). Is that meeting the 1074 joining of the series? — sources/drive/slave-hunters/slave-hunters-stuff.md, sources/drive/runaways/runaways-character-info-personal.md
 
 ## Peoples and cultures
 
@@ -120,6 +122,7 @@ Questions and conflicts found while building the wiki, for the author to decide.
 - **Dherlin and the "evil wizard":** the 1045 attacks on the Great City and the desolation of the ground water are blamed on "the evil wizard". Is that always Dherlin? — (sources/drive/runaways/runaways-character-info-personal.md; sources/drive/organized-runaways-notes.md).
 - **Unnamed characters:** Eric's mother, Jane's mother and elder brother, Lucas's mother, the Misty Phlats bartender (Crisig's father — is he Cerise's husband?), the force leader who ransacked Jane's village, the Torturer.
 - **Council of Worldly Wizards:** only known as the council Aerelm sits on. Who else is on it and what does it do? — (sources/drive/runaways/runaways-character-info-personal.md).
+- **Cultures of the main cast (Package 8):** the notes give a culture only for Eric, David, Bardon, Akio, Rannulfer, Ulrich, the Torturer, the Kurupal and the Xi. Which cultures are Jane, Scott and Joseph Barker, Brian, King Carter, King Augo and the other resistance members? — content/stories/who-is-who.md
 
 ## Stories
 
