@@ -1,6 +1,6 @@
 ---
 title: Aegryamis people
-aliases: [Aegryamis, Aegyramis, Aegryamis culture]
+aliases: [Aegyramis people, Aegryamis culture]
 tags: [culture]
 status: draft
 sources:

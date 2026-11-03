@@ -1,6 +1,6 @@
 ---
 title: Dyken people
-aliases: [Dyken, Dyken culture, Dykens]
+aliases: [Dyken culture, Dykens]
 tags: [culture]
 status: draft
 sources:

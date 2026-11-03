@@ -1,6 +1,6 @@
 ---
 title: Skarg people
-aliases: [Skarg, Skargan, Skargans, Skarg culture]
+aliases: [Skargan, Skargans, Skarg culture]
 tags: [culture]
 status: draft
 sources:

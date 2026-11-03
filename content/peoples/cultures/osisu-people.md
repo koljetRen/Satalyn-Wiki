@@ -1,6 +1,6 @@
 ---
 title: Osisu people
-aliases: [Osisu, Osisuan, Osisuans, Osisu culture]
+aliases: [Osisuan, Osisuans, Osisu culture]
 tags: [culture]
 status: draft
 sources:

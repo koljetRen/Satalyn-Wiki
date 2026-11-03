@@ -1,6 +1,6 @@
 ---
 title: Xi people
-aliases: [Xi, Xi culture]
+aliases: [Xi culture]
 tags: [culture]
 status: draft
 sources:
