@@ -8,7 +8,7 @@ From the golden age of creation through the ice age, the Xi Empire, the fall of 
 
 - [[The Golden Age]] — phase six of creation, when the gifts of the Nine were made real
 - [[The Ice Age]] — the 1,000-year freeze that began phase seven
-- [[The Ice Age People]] — the fallen civilisation that lived through it
+- [[Ice Age People]] — the fallen civilisation that lived through it (a page under [[peoples/races/index|Races]])
 - [[The Xi Empire]] — the Xi rule of the west coast, 350–430
 
 ## Events before *The Runaways*
@@ -20,6 +20,7 @@ From the golden age of creation through the ice age, the Xi Empire, the fall of 
 ## The Runaways years
 
 - [[the-runaways-years|The Runaways Years (1067–1074)]] — timeline of the books and spin-offs
+- [[The King's Trial]] — King Carter's tournament in which prisoners fight for their freedom
 - [[Battle of Misty Phlats]] — Book 1's climax and the resistance's escape
 - [[Battle of the Fort]] — Book 2 opens with the resistance's defeat
 - [[Raids on the Island Prison]] — two raids to free captured resistance members

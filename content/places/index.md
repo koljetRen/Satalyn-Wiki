@@ -2,7 +2,7 @@
 title: Places
 ---
 
-Regions, cities, mountains, seas and the other places of Satalyn. See [[Map progress]] for the state of the world map and [[Runaways sites]] for the locations the author pictured for *[[The Runaways]]*.
+Regions, cities, mountains, seas and the other places of Satalyn. The peoples who live in the regions have their own pages under [[peoples/cultures/index|Cultures]]. See [[Map progress]] for the state of the world map and [[Runaways sites]] for the locations the author pictured for *[[The Runaways]]*.
 
 ## Regions and realms
 
@@ -20,10 +20,10 @@ Regions, cities, mountains, seas and the other places of Satalyn. See [[Map prog
 
 - [[The Great Desert]] — windswept sand desert crossed by slave caravans
 - [[Misty Peaks]] — alpine range; its southern part holds Misty Phlats and the resistance base
-- [[The North Spine]] — alpine range
-- [[Shadow Bay]]
-- [[Dyke Hills]]
-- [[The North Sea]]
+- [[The North Spine]] — an alpine mountain range
+- [[Shadow Bay]] — a bay; the notes give only its name
+- [[Dyke Hills]] — hills; the notes give only the name
+- [[The North Sea]] — a sea; the notes give only the name
 - [[Thrymfell]] and the Thrymfell Forest — northern Skarg, home of the Thrym Pine
 - [[Northwatch]] — a northern stronghold of the old faith
 - [[Aramore Forest]] — crossed in Book 1
@@ -34,19 +34,19 @@ Regions, cities, mountains, seas and the other places of Satalyn. See [[Map prog
 - [[Great City]] — attacked by the evil wizard from 1045
 - [[Harrisonville]] — the town of the Barkers' safe house in Book 1
 - [[Misty Phlats]] — mountain town at the gateway to the resistance base
-- [[Resistance base]] and its main cavern
-- [[Training Grove]]
-- [[Shadow's Edge]]
+- [[Resistance base]] — the hidden headquarters in the Southern Misty Mountains, and its main cavern
+- [[Training Grove]] — one of the Runaways sites the author pictured
+- [[Shadow's Edge]] — where the resistance sends Eric to scout and buy weapons in Book 1
 - [[Mourncliff]] — where the resistance regroups after Misty Phlats
 - [[Moonwick]] — where the resistance takes ship
 - [[Keyesport Vale]] — King Augo's island
-- [[Quino]] — in Cadnitz
-- [[Sprake]] — in Dyken
-- [[Averill]]
-- [[Lucal]]
-- [[Island prison]]
-- [[Xi City Ruins]]
-- [[Magic holy site]]
+- [[Quino]] — in Cadnitz, where the survivors meet the Xi warrior Rykor in Book 2
+- [[Sprake]] — in Dyken; appears in the Book 3 plot
+- [[Averill]] — named at the end of the Book 3 plot
+- [[Lucal]] — named in the later plot notes
+- [[Island prison]] — where King Carter's forces hold captured resistance members
+- [[Xi City Ruins]] — ruins of a Xi city, one of the Runaways sites
+- [[Magic holy site]] — where Magurkai gave magic to the first cult
 
 ## Unused city names
 

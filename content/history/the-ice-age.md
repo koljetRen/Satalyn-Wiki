@@ -25,7 +25,7 @@ By the rules of the Book of Creation, every world's seventh phase begins with a 
 ## What happened
 
 - **The freeze.** There were no ice caps at the end of phase six. Once the freeze began, ice sheets spread over the north and south within 100 to 150 years: fast, but slow enough that people could flee rather than die instantly.
-- **A fallen civilisation.** The gifts of phase six had let the first cities rise. The freeze hit them: fields froze over and the early cities were abandoned. The [[The Ice Age People|ice age people]] were a fallen civilisation, not cavemen.
+- **A fallen civilisation.** The gifts of phase six had let the first cities rise. The freeze hit them: fields froze over and the early cities were abandoned. The [[Ice Age People|ice age people]] were a fallen civilisation, not cavemen.
 - **Land and sea.** Glaciers limited where people could live. Lower sea levels may have opened land bridges that later flooded — a source of legends about lost homelands and drowned cities.
 - **The races.** The ice age drove much of the early migration of the five races:
   - the [[Elves]] were hit hard, and are rare and secluded by the modern day;

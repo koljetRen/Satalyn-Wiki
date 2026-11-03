@@ -64,7 +64,7 @@ In *[[The Runaways]]*, [[Eric]] and [[Jane Barker]] are both wizards as well as 
 
 ## Ideas and open threads
 
-- The first cult may have been an ice age people, which would put the oldest bloodlines in that era (see [[The Ice Age People]]).
+- The first cult may have been an ice age people, which would put the oldest bloodlines in that era (see [[Ice Age People]]).
 - Each wielder's magic may come from one of four elements (older notes; see the canon note above).
 
 ## Open questions
