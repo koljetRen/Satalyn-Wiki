@@ -27,7 +27,7 @@ In phase five, the Supreme Creator, [[Euiklatz]], made simple plants and animals
 - **Magic** was given to its first cult (see [[Magic]]).
 - **The moons:** [[Stomell]]'s three daughters were placed into the three bare moons.
 - **The landscapes:** [[Felderg]] coloured and shaped the simple plant life into forests, deserts, tundra and snowy peaks.
-- **The other gifts** of the Nine: death ([[Dauviti]]), shipbuilding and fishing ([[Ozefio]]), plants and farming (Felderg), reading, writing and study ([[Gehflaun]]), strength, speed and mobility ([[Dreplagen]]), persuasion and cunning ([[Krarkur]]), sound, music and languages ([[Klist]]), and magic ([[Magurkai]]). The notes don't say exactly which of these were granted in phase six; see each god's page.
+- **The other gifts** of the Nine: death ([[Dauviti]]), shipbuilding and fishing ([[Ozefio]]), plants and farming (Felderg), reading, writing and study ([[Gehflaun]]), strength, speed and mobility ([[Dreplagen]]), persuasion and cunning ([[Krarkur]]), sound, music and languages ([[Klist]]), and magic ([[Magurkai]]). See each god's page for the gift and its flaw.
 
 Each gift pushed mortals far ahead, so they skipped the hunter-gatherer stage and started farming and building cities right away. Each gift also carried a hidden flaw its god didn't foresee, and because the Nine didn't coordinate, some gifts clashed, like Ozefio's ships and Stomell's storms.
 
