@@ -7,7 +7,9 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: satalyn.example.com # TODO: set to the real site address once hosting is chosen
+  # TODO(hosting): replace with the address Cloudflare Pages gives the site, e.g.
+  # satalyn-wiki.pages.dev (no https://, no trailing slash). See HOSTING.md, step 4.
+  baseUrl: satalyn.example.com
   ignorePatterns:
     - private
     - "**/private"
@@ -116,7 +118,9 @@ plugins:
     enabled: true
     options:
       theme: its-theme
-      variation: ttrpg-dnd
+      # ttrpg-wotc: parchment + red D&D look. ttrpg-dnd was tried first but its green
+      # body text and active-explorer highlight were hard to read (see BUILD-NOTES.md).
+      variation: ttrpg-wotc
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -150,8 +154,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
+  # cname writes a GitHub Pages CNAME file; Cloudflare Pages does not use it.
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -193,6 +198,8 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  # Leave disabled: enabling it replaces the "Satalyn" site title in the left
+  # sidebar with the tag list (tested Nov 2026, see BUILD-NOTES.md).
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
